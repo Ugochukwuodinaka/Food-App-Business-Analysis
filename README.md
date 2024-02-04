@@ -88,8 +88,11 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
         5. Tooltips
         6. Button
 
-
-
+### Data Cleaning, Transformation and Loading using the Power Query Editor:
+1. Translated all the colume headers in Swedish language to English for easy understanding
+2. Duplicated the Centroid column into 2 more columns: "Centroid 1" and "Centroid 2"
+3. Split the duplicated Centroid columns by delimeter.
+4. Split the duplicated Centroid columns by position.
 
 9. Conclusion:
 The analysis of the food app business is crucial for understanding the evolving dynamics of the food industry and catering to the changing needs and preferences of consumers. By leveraging the insights gained from this analysis, businesses can devise strategies to stay competitive and capitalize on emerging opportunities in the market.
