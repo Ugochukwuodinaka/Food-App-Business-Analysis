@@ -81,12 +81,12 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
-        1. DAX,
-        2. Quick Measures,
-        3. Page Navigation,
-        4. Filters,
+        1. DAX
+        2. Quick Measures
+        3. Page Navigation
+        4. Filters
         5. Tooltips
-
+        6. Button
 
 
 
