@@ -72,6 +72,22 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 26. TotalNoOfCampaignAccepted: Total number of marketing campaigns accepted by the customer.
 23. CustomerComplain: Binary variable indicating whether the customer has complained (1) or not (0).
 
+### Tools Used
+1. Power Query Editor
+    - Was used to:
+        1. Extract,
+        2. Transform, and
+        3. Load all the datasets for this analysis.
+           
+2. Power BI (Was used to create reports and dashboard for this analysis)
+    - The following Power BI Features were incorporated:
+        1. DAX,
+        2. Quick Measures,
+        3. Page Navigation,
+        4. Filters,
+        5. Tooltips
+
+
 
 
 
