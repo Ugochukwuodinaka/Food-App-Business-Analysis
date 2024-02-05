@@ -131,7 +131,36 @@ From the analysis, i made the Key Performance Indcator findings below:
 - From the "Customers By Marital Status" doughnut chart, we could see that we have a graeater number of customers that are married with a customer count of 1,422 and a percentage ratio of 64.49% while the Singles has a customer count of 783 and a percentasge ratio of 35.51%. This indicates that we have a greater number of married customers in this analaysis and marital status must have played a role in the purchasing preferences, purchasing methods and the medium of purchases for these customers.
 
 - <img src="AgeBand_By_Marital_Status_image.jpg" width="300">
-- Diving deeper in the customer demorgraphy analysis, in the "Age Band By Marital Status and Education" clustered horizontal bar chart, we could see that We have the largest number of customers in the number of in their Forties with 594 customers, within this age band, we have 469 married customers and 222 singles. Customers in the age band of Fifties comes second with 492 customers, of which 321 are married and 207 are single. Following closely in the 3rd position are customers in their Sixties with a number of 431, of which 307 are married while 166 are singles. In the 4th position are customers in their Thirties with a number of 275 which is made up of 220 married customers and 119 single customers. Customers in the age band of Seventy+ follows next with 130 customers of which are 88 married and 46 single customers. Lastly are customers in their Twenties with a customer count of 31, made up of 17 married and 26 sigle customers.
+- Diving deeper in the customer demography analysis, in the "Age Band By Marital Status and Education" clustered horizontal bar chart, we could see that We have the largest number of customers in the number of in their Forties with 594 customers, within this age band, we have 469 married customers and 222 singles. Customers in the age band of Fifties comes second with 492 customers, of which 321 are married and 207 are single. Following closely in the 3rd position are customers in their Sixties with a number of 431, of which 307 are married while 166 are singles. In the 4th position are customers in their Thirties with a number of 275 which is made up of 220 married customers and 119 single customers. Customers in the age band of Seventy+ follows next with 130 customers of which are 88 married and 46 single customers. Lastly are customers in their Twenties with a customer count of 31, made up of 17 married and 26 single customers.
+
+- Diving deeper into the customer demography analysis, in the "Age Band By Marital Status and Education" clustered horizontal bar chart, we could see insightful patterns regarding the distribution of customers across different age bands, marital statuses, and education levels. Here's a breakdown of the findings:
+  - Forties (40-49 years):
+    This age band comprises the largest number of customers, with a total of 594 individuals. Among these customers, 469 are married, 
+    indicating a significant portion of married individuals within this age group. Additionally, 222 customers in their forties are 
+    single.
+  - Fifties (50-59 years):
+    Following closely, the age band of fifties accounts for 492 customers. Among them, 321 are married, indicating a relatively higher 
+    proportion of married individuals compared to singles. 207 customers in their fifties are single.
+  - Sixties (60-69 years):
+    Customers in their sixties represent the third-largest group, totaling 431 individuals. Within this age band, 307 customers are 
+    married, with a significant portion opting for marriage. There are 166 single customers in their sixties.
+  - Thirties (30-39 years): The age band of thirties comprises 275 customers, ranking fourth in terms of customer count. Among them, 220 
+    customers are married, showing a considerable proportion of married individuals. Additionally, 119 customers in their thirties are 
+    single.
+  - Seventy+ (70+ years): Customers aged seventy and above account for 130 individuals. Among them, 88 customers are married, with a 
+    notable representation of married individuals in this age group. Additionally, there are 46 single customers in this age band.
+  - Twenties (20-29 years): The age band of twenties represents the smallest group of customers, with a total count of 31 individuals.
+    Interestingly, among these customers, there are 17 married individuals and 26 single individuals, indicating a higher proportion of 
+    singles compared to married individuals in this age group.
+  - Conclusion:
+    This analysis of customer demography by age band and marital status provides valuable insights into the composition of 
+    the customer base. A good understanding of these demographic patterns can help tailor marketing strategies, product offerings, and 
+    customer engagement initiatives to better cater to the preferences and needs of different customer segments.
+    Further analysis and segmentation based on demographic factors can provide deeper insights and opportunities for targeted marketing 
+    and personalized experiences to enhance customer satisfaction and loyalty.
+
+
+
 
 
 
