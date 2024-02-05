@@ -332,7 +332,7 @@ From the analysis, i made the Key Performance Indcator findings below:
        savory dishes, driving expenditure within this category among consumers seeking culinary diversity and experimentation.
 - This analysis highlights the diverse preferences and consumption patterns of consumers, with significant expenditure observed across various categories. An understanding of the factors influencing spending within each category is essential for the Food App Business to tailor their product offerings, marketing strategies, and promotional activities to effectively meet consumer needs and drive sales.
 
-- <img src="Amount_Spent_On_Food_Categories_By_AgeBand_image.jpg" width="500">
+- <img src="Amount_Spent_On_Food_Categories_By_AgeBand_image.jpg" width="800">
 - **Amount Spent On Food Categories By Age Band**
 - This analysis provides insights into consumer spending behavior and preferences across various demographic segments. Here's an analysis based on this details:
 - Age Band of Fifties: Customers in their fifties demonstrate significant expenditure across various food categories, with the highest 
@@ -387,7 +387,7 @@ From the analysis, i made the Key Performance Indcator findings below:
 - This analysis highlights diverse spending patterns and preferences across different demographic segments. An understanding of thee factors influencing spending within each age band is essential for the Fppd App business to tailor their product offerings, pricing strategies, and marketing initiatives to effectively meet consumer needs and drive sales.
 
 ## Visuals in Power BI:
-![](https://app.powerbi.com/view?r=eyJrIjoiMWMyNjliODktMTIwNi00ZGYzLThhYmMtMDQzNDE3Nzk4OWJkIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9)
+You can view and interact with this report on Food App Business analysis [here](https://app.powerbi.com/view?r=eyJrIjoiMWMyNjliODktMTIwNi00ZGYzLThhYmMtMDQzNDE3Nzk4OWJkIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
   
 
 ## Recommendations Towards The Growth and PrOftability of The Food App Business
