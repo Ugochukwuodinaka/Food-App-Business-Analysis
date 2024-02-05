@@ -187,7 +187,9 @@ From the analysis, i made the Key Performance Indcator findings below:
     diverse customer segments. By aligning with customers' income levels and preferences, businesses can optimize their market 
     positioning and enhance customer satisfaction, ultimately driving sales and fostering long-term loyalty.
 
-
+- <img src="Purchase_Method_By_AgeBand_image.jpg" width="300">
+- **Purchase Method By Age Band**
+- 
 
 
 
