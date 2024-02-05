@@ -129,6 +129,8 @@ From the analysis, i made the Key Performance Indcator findings below:
 
 - <img src="Customers_By_Marital_Status_image.jpg" width="250">
 - From the "Customers By Marital Status" doughnut chart, we could see that we have a graeater number of customers that are married with a customer count of 1,422 and a percentage ratio of 64.49% while the Singles has a customer count of 783 and a percentasge ratio of 35.51%. This indicates that we have a greater number of married customers in this analaysis and marital status must have played a role in the purchasing preferences, purchasing methods and the medium of purchases for these customers.
+
+- <img src="AgeBand_By_Marital_Status_image.jpg" width="250">
 - Diving deeper in the customer demorgraphy analysis, in the "Age Band By Marital Status and Education" clustered horizontal bar chart, we could see that We have the largest number of customers in the number of in their Forties with 594 customers, within this age band, we have 469 married customers and 222 singles. Customers in the age band of Fifties comes second with 492 customers, of which 321 are married and 207 are single. Following closely in the 3rd position are customers in their Sixties with a number of 431, of which 307 are married while 166 are singles. In the 4th position are customers in their Thirties with a number of 275 which is made up of 220 married customers and 119 single customers. Customers in the age band of Seventy+ follows next with 130 customers of which are 88 married and 46 single customers. Lastly are customers in their Twenties with a customer count of 31, made up of 17 married and 26 sigle customers.
 
 
