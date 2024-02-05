@@ -89,14 +89,27 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
         6. Button
 
 ### Data Cleaning, Transformation and Loading using the Power Query Editor:
-1. Translated all the colume headers in Swedish language to English for easy understanding
-2. Duplicated the Centroid column into 2 more columns: "Centroid 1" and "Centroid 2"
-3. Split the duplicated Centroid columns by delimeter.
-4. Split the duplicated Centroid columns by position.
+1. Changed the column type for "MonthlyIncome" from text to Whole Number(int64).
+2. Changed the column type for "ActiveSinceDays" to Whole Number(int64) from text.
+3. Added a new column "AgeBand" which extracts its information from the "Age" column and groups them into: Twenties, Thirties, Forties, Fifties, Sixties, and Seventies+ using the 'If function'.
+4. Added a new column "Graduate_Status" which picks its information from the "Graduate" column and transforms them by grouping them into 'Graduate' and 'Non-Graduate'. using the 'If fdunction'.
+5. Added a new column "Marital_Status" from the "Married" column groups the data in the "Married" column into 'Married' and 'Single' using the 'If function'.
+6. Re-ordered all columns accordingly.
 
-9. Conclusion:
+**Raw Data**
+Below a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns(27 column). You can download the dataset [here](FoodAppBusiness.csv).
+
+![](Raw_Data.png)
+
+**Final Power Query Editor screenshot**
+Below a screenshot of a part of the cleaned data in power query editor which cannot be viewed fully here because of the number of its columns too. You can download the full Power BI [here](Cleaned_Data_In_Power_Query.png).
+
+![](Power_Query_Eitor_1.png)
+
+
+10. Conclusion:
 The analysis of the food app business is crucial for understanding the evolving dynamics of the food industry and catering to the changing needs and preferences of consumers. By leveraging the insights gained from this analysis, businesses can devise strategies to stay competitive and capitalize on emerging opportunities in the market.
 
-10. Contact Information:
+11. Contact Information:
 For further inquiries or collaboration opportunities, please contact [Your Name] at [Your Email Address] or [Your Phone Number].
 
