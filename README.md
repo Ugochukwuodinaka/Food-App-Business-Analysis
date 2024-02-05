@@ -111,7 +111,7 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 ![](Food_App_Business_Analysis_Dashboard_1.jpg)
 
 #### Report 2
-![](Food_App_Business_Analysis_Dashboard_2.jpg)
+![](Food_App_Business_Analysis_Dashboard_3.jpg)
 
 ### Analysis:
 From the analysis, i made the findings below:
