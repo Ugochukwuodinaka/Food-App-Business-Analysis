@@ -248,7 +248,7 @@ From the analysis, i made the Key Performance Indcator findings below:
         engagement, resulting in higher conversion rates.
       - Customer Segmentation: Targeting specific customer segments with tailored messaging and offers may have contributed to higher 
         response rates and conversions.
-- 5th Campaign (161 customers converted): The 5th campaign secured the third position with 161 customers converted.
+  - 5th Campaign (161 customers converted): The 5th campaign secured the third position with 161 customers converted.
     - Potential Influencing Factors:
       - Creative Messaging: Innovative and attention-grabbing messaging or creative content may have captured the audience's interest 
         and motivated them to respond positively to the campaign.
@@ -256,7 +256,7 @@ From the analysis, i made the Key Performance Indcator findings below:
         in a higher conversion rate.
       - Customer Engagement: Interactive elements or gamification strategies incorporated into the campaign may have enhanced customer 
         engagement and participation, leading to increased conversions.
-- 1st Campaign (142 customers converted): The 1st campaign secured the fourth position, converting 142 customers.
+  - 1st Campaign (142 customers converted): The 1st campaign secured the fourth position, converting 142 customers.
     - Potential Influencing Factors:
       - Brand Awareness: As the initial campaign in the series, the 1st campaign may have focused on building brand awareness and 
         introducing the target audience to the product or service offering.
@@ -264,7 +264,7 @@ From the analysis, i made the Key Performance Indcator findings below:
         learnings used to refine subsequent campaigns for improved performance.
       - Market Conditions: External factors such as seasonality, economic conditions, or competitive landscape may have influenced the 
         campaign's effectiveness and conversion rates.
-- 2nd Campaign (30 customers converted): The 2nd campaign experienced the lowest level of success, converting only 30 customers.
+  - 2nd Campaign (30 customers converted): The 2nd campaign experienced the lowest level of success, converting only 30 customers.
     - Potential Influencing Factors:
       - Messaging Alignment: The campaign messaging may have failed to effectively communicate value or relevance to the target 
         audience, resulting in limited engagement and conversion.
