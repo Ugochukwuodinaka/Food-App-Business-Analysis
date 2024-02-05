@@ -1,6 +1,15 @@
 # Food-App-Business-Analysis
 ![](Food_App_Business_image.jpg)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [About The Dataset](#about-the-dataset)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI:](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+- [Recommendations Towards The Growth and Proftability of The Food App Business](#recommendations-towards-the-growth-and-proftability-of-the-food-app-business)
+- 
 ## Project Overview
 ### Introduction:
 In today's digital age, the food industry has witnessed a significant transformation with the advent of food delivery business applications. These applications have revolutionized the way people order, consume, and experience food. This project aims to conduct a comprehensive analysis of the food app business, focusing on various aspects including market trends, customer demorgraphy, customer behavior, customer income, costumer purchase method, and provide insights for potential business growth.
@@ -113,7 +122,7 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 #### Report 2
 ![](Food_App_Business_Analysis_Dashboard_2.jpg)
 
-### Analysis:
+### Project Analysis:
 From the analysis, i made the Key Performance Indcator findings below:
 - The Total Monthly Income from this Food App Business data $113.8M.
 - The Average Mmonthly Income from this Food App Business is $51.622k
@@ -386,11 +395,11 @@ From the analysis, i made the Key Performance Indcator findings below:
       reflecting a desire for healthier eating habits among younger consumers.
 - This analysis highlights diverse spending patterns and preferences across different demographic segments. An understanding of thee factors influencing spending within each age band is essential for the Fppd App business to tailor their product offerings, pricing strategies, and marketing initiatives to effectively meet consumer needs and drive sales.
 
-## Visuals in Power BI:
+## Visuals in Power BI Report:
 You can view and interact with this report on Food App Business analysis [here](https://app.powerbi.com/view?r=eyJrIjoiMWMyNjliODktMTIwNi00ZGYzLThhYmMtMDQzNDE3Nzk4OWJkIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
   
 
-## Recommendations Towards The Growth and PrOftability of The Food App Business
+## Recommendations Towards The Growth and Proftability of The Food App Business
 - Based on the analysis conducted on the Food App Business and the insights gained from various aspects such as customer demographics, purchase behavior, campaign effectiveness, and spending patterns, here are several recommendations aimed at fostering growth and profitability:
 - Enhance Personalization and Customer Engagement: Utilize data analytics to gain deeper insights into customer preferences, behaviors, and purchasing patterns. Implement personalized recommendations, promotions, and offers to enhance customer engagement and loyalty. Develop targeted marketing campaigns tailored to specific customer segments, addressing their unique needs and preferences.
 - Optimize User Experience and Interface: Continuously improve the user interface and navigation of the food app to enhance usability and convenience. Streamline the ordering and checkout process to minimize friction and maximize conversion rates. Invest in mobile optimization and responsive design to ensure a seamless experience across various devices and platforms.
