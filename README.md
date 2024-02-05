@@ -106,7 +106,19 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 
 ![](Cleaned_Data_In_Power_Query.png)
 
+## Visuals=ization in Power BI:
+![](Food_App_Business_Analysis_Dashboard_1.jpg)
+![](Food_App_Business_Analysis_Dashboard_2.jpg)
 
+#### Analysis:
+From the analysis, i made the findings below:
+- The Total Flight Record is 7,247.
+- The Average Percentage of Baselie is 66.65%.
+- The total number of Airports is 28.
+- The Total Traffic Impact is 483,000.
+- Total Number of Airport Countries in this analysis is 4
+- While the Total Number of Airport Cities is 27.
+- Looking at the Total flights recorded by the 4 countries in this analysis, USA had the most number of flights which was 4,441, followed by Canada with 2,311 flights, Australia is next with 57 flights, and lastly, Chile with 238 flights. As we can see, there are variations in these numbers by countries. Let's run a more detailed analysis on them:
 10. Conclusion:
 The analysis of the food app business is crucial for understanding the evolving dynamics of the food industry and catering to the changing needs and preferences of consumers. By leveraging the insights gained from this analysis, businesses can devise strategies to stay competitive and capitalize on emerging opportunities in the market.
 
