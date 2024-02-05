@@ -183,7 +183,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     cater to their social and recreational interests.
   - The distribution of total monthly income across different age bands influences customers' purchasing power and 
     preferences, shaping their buying behavior and consumption patterns. Understanding these changes is crucial for the Food App 
-    Businesses to tailor their product offerings, pricing strategies, and marketing campaigns to effectively target and engage with 
+    Business to tailor their product offerings, pricing strategies, and marketing campaigns to effectively target and engage with 
     diverse customer segments. By aligning with customers' income levels and preferences, businesses can optimize their market 
     positioning and enhance customer satisfaction, ultimately driving sales and fostering long-term loyalty.
 
@@ -224,7 +224,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     increasing engagement in online transactions.
   - Age plays a significant role in influencing the choice of purchase method, with different age groups demonstrating varying 
     preferences and levels of engagement across store, web, and catalog purchases. A good understanding of these preferences is 
-    important for the Food App Businesses to tailor their omnichannel strategies, offering a seamless shopping experience that caters to 
+    important for the Food App Business to tailor their omnichannel strategies, offering a seamless shopping experience that caters to 
     the diverse needs and preferences of different demographic segments. By adapting their marketing efforts and enhancing their online 
     and offline retail offerings, businesses can effectively engage with customers across all age groups, driving sales and fostering 
     long-term loyalty in an increasingly competitive retail landscape.
@@ -276,6 +276,61 @@ From the analysis, i made the Key Performance Indcator findings below:
   effectiveness, timing, relevance, personalization, creative execution, and audience targeting. Analyzing the performance of each 
   campaign provides valuable insights for optimizing future marketing initiatives, identifying best practices, and addressing areas for 
   improvement to drive higher conversion rates and overall campaign success.
+
+- <img src="Amount_Spent_On_Food_Categories_By_AgeBand_image.jpg" width="300">
+- **Amount Spent On Food Categories**
+- This analysis provides insights into consumer preferences and purchasing behavior. Here's an analysis based on the food categories 
+  details:
+- Wines: Wines emerge as the top category in terms of total amount spent, with a substantial $675,093, representing a significant share 
+  ratio of 50.45%.
+   - Potential Influencing Factors:
+     - Lifestyle Preferences: Consumers may prioritize purchasing wines for social occasions, celebrations, 
+       or personal enjoyment, contributing to higher expenditure in this category.
+     - Perceived Value: Premium wines may command higher prices, leading to increased spending among consumers who perceive wine as a 
+       status symbol or luxury item.
+     - Seasonal Trends: Factors such as holidays, special events, or cultural traditions may influence wine consumption patterns, 
+       leading to fluctuations in spending within this category.
+- Meat: Meat follows closely behind wines in terms of total amount spent, with $364,513, comprising a substantial share ratio of 27.24%.
+   - Potential Influencing Factors:
+     - Dietary Preferences: Meat is a staple protein source in many diets, leading to consistent demand and expenditure within this 
+       category.
+     - Culinary Trends: Consumers may allocate significant budgets for premium cuts of meat or specialty products, driven by culinary 
+       trends, health considerations, or cultural preferences.
+     - Occasional Purchases: Purchases of meat for special occasions, barbecues, or family gatherings may contribute to higher 
+       expenditure within this category during certain periods.
+- Gold: Gold represents a unique category within food spending, with a total amount spent of $97,146 and a share ratio of 7.26%.
+   - Potential Influencing Factors:
+     - Luxury Consumption: Gold-coated or edible gold products may be considered luxury items or novelty gifts, leading to higher 
+       expenditure among consumers seeking indulgent experiences.
+     - Special Occasions: Gold-based food products may be purchased for special events, celebrations, or as part of gourmet dining 
+       experiences, contributing to occasional spikes in spending within this category.
+     - Cultural Significance: Gold has symbolic value in many cultures, influencing consumption patterns and expenditure within this 
+       category among certain demographic segments.
+- Fish: Fish ranks fourth in terms of total amount spent, with $83,253, and a share ratio of 6.22%.
+   - Potential Influencing Factors:
+     - Health Consciousness: Fish is often perceived as a healthy protein source rich in omega-3 fatty acids, leading to consistent 
+       demand and expenditure within this category among health-conscious consumers.
+     - Culinary Diversity: Consumers may allocate budgets for a variety of fish species, seafood products, driven by culinary 
+       diversity, taste preferences, and cultural influences.
+     - Seasonal Availability: Factors such as seasonal fishing quotas, weather conditions, or environmental concerns may influence the 
+       availability and pricing of fish, leading to fluctuations in spending within this category.
+- Sweet: Sweet products represent a category of indulgent treats, with a total amount spent of $59,818 and a share ratio of 4.47%.
+   - Potential Influencing Factors:
+     - Occasional Indulgence: Sweet products such as desserts, chocolates, or confectionery items are often purchased for special 
+       occasions, celebrations, or as indulgent treats, contributing to periodic spikes in spending within this category.
+     - Emotional Comfort: Consumers may seek comfort or stress relief through the consumption of sweet products, leading to consistent 
+       demand and expenditure within this category during certain periods.
+     - Gifting and Sharing: Sweet products are popular choices for gifting or sharing with friends and family, especially during 
+       holidays or festive seasons, driving higher expenditure within this category.
+- Fruits: Fruits represent a category of fresh produce, with a total amount spent of $58,219 and a share ratio of 4.35%.
+   - Potential Influencing Factors:
+     - Dietary Preferences: Fruits are perceived as healthy, nutritious options and are often included in balanced diets, leading to 
+       consistent demand and expenditure within this category among health-conscious consumers.
+     - Seasonal Availability: The availability of seasonal fruits may influence purchasing patterns and expenditure within this 
+       category, with consumers allocating budgets for a variety of fresh produce based on seasonal availability and preferences.
+     - Culinary Uses: Fruits are versatile ingredients used in various culinary applications, including desserts, smoothies, salads, and 
+       savory dishes, driving expenditure within this category among consumers seeking culinary diversity and experimentation.
+- This analysis highlights the diverse preferences and consumption patterns of consumers, with significant expenditure observed across various categories. An understanding of the factors influencing spending within each category is essential for the Food App Business to tailor their product offerings, marketing strategies, and promotional activities to effectively meet consumer needs and drive sales.
 
 
 
