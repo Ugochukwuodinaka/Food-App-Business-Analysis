@@ -89,19 +89,21 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
         6. Button
 
 ### Data Cleaning, Transformation and Loading using the Power Query Editor:
-1. Changed the column type for "MonthlyIncome" from text to Whole Number(int64).
-2. Changed the column type for "ActiveSinceDays" to Whole Number(int64) from text.
+1. Changed the column type for "MonthlyIncome" from text to Whole Number (int64).
+2. Changed the column type for "ActiveSinceDays" to Whole Number (int64) from text.
 3. Added a new column "AgeBand" which extracts its information from the "Age" column and groups them into: Twenties, Thirties, Forties, Fifties, Sixties, and Seventies+ using the 'If function'.
 4. Added a new column "Graduate_Status" which picks its information from the "Graduate" column and transforms them by grouping them into 'Graduate' and 'Non-Graduate'. using the 'If fdunction'.
 5. Added a new column "Marital_Status" from the "Married" column groups the data in the "Married" column into 'Married' and 'Single' using the 'If function'.
 6. Re-ordered all columns accordingly.
 
 **Raw Data**
--Below a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns(27 column). You can download the dataset [here](FoodAppBusiness.csv).
+
+-Below a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns (27 column). You can download the dataset [here](FoodAppBusiness.csv).
 
 ![](Raw_Data.png)
 
 **Final Power Query Editor screenshot**
+
 -Below a screenshot of a part of the cleaned data in power query editor which cannot be viewed fully here because of the number of its columns too. You can download the full Power BI [here](Cleaned_Data_In_Power_Query.png).
 
 ![](Cleaned_Data_In_Power_Query.png)
