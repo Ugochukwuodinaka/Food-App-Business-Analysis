@@ -157,7 +157,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     Further analysis and segmentation based on demographic factors can provide deeper insights and opportunities for targeted marketing 
     and personalized experiences to enhance customer satisfaction and loyalty.
 
-
+- <img src="Total_Monthly_Income_By_AgeBand_image.jpg" width="300">
 
 
 
