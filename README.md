@@ -9,7 +9,7 @@
 - [Project Analysis](#project-analysis)
 - [Visuals in Power BI Report](#visuals-in-power-bi-report)
 - [Recommendations Towards The Growth and Proftability of The Food App Business](#recommendations-towards-the-growth-and-proftability-of-the-food-app-business)
-- 
+  
 ## Project Overview
 ### Introduction:
 In today's digital age, the food industry has witnessed a significant transformation with the advent of food delivery business applications. These applications have revolutionized the way people order, consume, and experience food. This project aims to conduct a comprehensive analysis of the food app business, focusing on various aspects including market trends, customer demorgraphy, customer behavior, customer income, costumer purchase method, and provide insights for potential business growth.
