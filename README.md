@@ -114,7 +114,7 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 ![](Food_App_Business_Analysis_Dashboard_3.jpg)
 
 ### Analysis:
-From the analysis, i made the findings below:
+From the analysis, i made the Key Performance Indcator findings below:
 - The Total Monthly Income from this Food App Business data $113.8M.
 - The Average Mmonthly Income from this Food App Business is $51.622k
 - The Total Amount Spent on all the food categories is $1.34M.
@@ -123,7 +123,8 @@ From the analysis, i made the findings below:
 - The number of Customers that are Married is 1,422
 - The number of Customers that are Graduates is 1,953
 - The number of Customer Complaint is 20.
-- Analyzing this data from the apspect of Customers educational level, in the doughnut pie that represents "Customers By Graduate Ratio", we can see that Graduates makes a greater percentage ratio and number of customers in this analysis with 1,953 customers and a percentage of 88.57% while the Non-Graduates Customers are 252 in number with a percentage share of 11.43%. From this chart, we can see that educational may have influence buying decisions of customers.
+  ![](Customer_By_Graduate_Ratio_image.jpg)
+- Analyzing this data from the aspect of Customers educational level, in the doughnut pie that represents "Customers By Graduate Ratio", we can see that Graduates makes a greater percentage ratio and number of customers in this analysis with 1,953 customers and a percentage of 88.57% while the Non-Graduates Customers are 252 in number with a percentage share of 11.43%. From this chart, we can see that educational may have influence buying decisions of customers.
 - From the "Customers By Marital Status" doughnut chart, we could see that we have a graeater number of customers that are married with a customer count of 1,422 and a percentage ratio of 64.49% while the Singles has a customer count of 783 and a percentasge ratio of 35.51%. This indicates that we have a greater number of married customers in this analaysis and marital status must have played a role in the purchasing preferences, purchasing methods and the medium of purchases for these customers.
 - Diving deeper in the customer demorgraphy analysis, in the "Age Band By Marital Status and Education" clustered horizontal bar chart, we could see that We have the largest number of customers in the number of in their Forties with 594 customers, within this age band, we have 469 married customers and 222 singles. Customers in the age band of Fifties comes second with 492 customers, of which 321 are married and 207 are single. Following closely in the 3rd position are customers in their Sixties with a number of 431, of which 307 are married while 166 are singles. In the 4th position are customers in their Thirties with a number of 275 which is made up of 220 married customers and 119 single customers. Customers in the age band of Seventy+ follows next with 130 customers of which are 88 married and 46 single customers. Lastly are customers in their Twenties with a customer count of 31, made up of 17 married and 26 sigle customers.
 
