@@ -277,7 +277,7 @@ From the analysis, i made the Key Performance Indcator findings below:
   campaign provides valuable insights for optimizing future marketing initiatives, identifying best practices, and addressing areas for 
   improvement to drive higher conversion rates and overall campaign success.
 
-- <img src="Amount_Spent_On_Food_Categories_By_AgeBand_image.jpg" width="300">
+- <img src="Amount_Spent_On_Food_Categories_image.jpg" width="300">
 - **Amount Spent On Food Categories**
 - This analysis provides insights into consumer preferences and purchasing behavior. Here's an analysis based on the food categories 
   details:
