@@ -106,7 +106,7 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 
 ![](Cleaned_Data_In_Power_Query.png)
 
-## Visuals=ization in Power BI:
+## Visualization in Power BI:
 ![](Food_App_Business_Analysis_Dashboard_1.jpg)
 ![](Food_App_Business_Analysis_Dashboard_2.jpg)
 
