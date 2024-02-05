@@ -229,7 +229,8 @@ From the analysis, i made the Key Performance Indcator findings below:
     and offline retail offerings, businesses can effectively engage with customers across all age groups, driving sales and fostering 
     long-term loyalty in an increasingly competitive retail landscape.
 
-
+- <img src="No_Of_Customers_Acquired_By_Campaigns_image.jpg" width="300">
+- **No Of Customers Acquired Bby Campaigns**
 
 
 
