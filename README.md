@@ -123,9 +123,12 @@ From the analysis, i made the findings below:
 - The number of Customers that are Married is 1,422
 - The number of Customers that are Graduates is 1,953
 - The number of Customer Complaint is 20.
-- Looking at the Total flights recorded by the 4 countries in this analysis, USA had the most number of flights which was 4,441, followed by Canada with 2,311 flights, Australia is next with 57 flights, and lastly, Chile with 238 flights. As we can see, there are variations in these numbers by countries. Let's run a more detailed analysis on them:
-10. Conclusion:
-The analysis of the food app business is crucial for understanding the evolving dynamics of the food industry and catering to the changing needs and preferences of consumers. By leveraging the insights gained from this analysis, businesses can devise strategies to stay competitive and capitalize on emerging opportunities in the market.
+- Analyzing this data from the apspect of Customers educational level, in the doughnut pie that represents "Customers By Graduate Ratio", we can see that Graduates makes a greater percentage ratio and number of customers in this analysis with 1,953 customers and a percentage of 88.57% while the Non-Graduates Customers are 252 in number with a percentage share of 11.43%. From this chart, we can see that educational may have influence buying decisions of customers.
+- From the "Customers By Marital Status" doughnut chart, we could see that we have a graeater number of customers that are married with a customer count of 1,422 and a percentage ratio of 64.49% while the Singles has a customer count of 783 and a percentasge ratio of 35.51%. This indicates that we have a greater number of married customers in this analaysis and marital status must have played a role in the purchasing preferences, purchasing methods and the medium of purchases for these customers.
+- Diving deeper in the customer demorgraphy analysis, in the "Age Band By Marital Status and Education" clustered horizontal bar chart, we could see that We have the largest number of customers in the number of in their Forties with 594 customers, within this age band, we have 469 married customers and 222 singles. Customers in the age band of Fifties comes second with 492 customers, of which 321 are married and 207 are single. Following closely in the 3rd position are customers in their Sixties with a number of 431, of which 307 are married while 166 are singles. In the 4th position are customers in their Thirties with a number of 275 which is made up of 220 married customers and 119 single customers. Customers in the age band of Seventy+ follows next with 130 customers of which are 88 married and 46 single customers. Lastly are customers in their Twenties with a customer count of 31, made up of 17 married and 26 sigle customers.
+
+
+
 
 11. Contact Information:
 For further inquiries or collaboration opportunities, please contact [Your Name] at [Your Email Address] or [Your Phone Number].
