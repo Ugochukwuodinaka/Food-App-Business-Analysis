@@ -125,12 +125,15 @@ From the analysis, i made the Key Performance Indcator findings below:
 - The number of Customer Complaint is 20.
   
 - <img src="Customer_By_Graduate_Ratio_image.jpg" width="250">
+- **Customers By Graduate Ration
 - Analyzing this data from the aspect of Customers educational level, in the doughnut pie that represents "Customers By Graduate Ratio", we can see that Graduates makes a greater percentage ratio and number of customers in this analysis with 1,953 customers and a percentage of 88.57% while the Non-Graduates Customers are 252 in number with a percentage share of 11.43%. From this chart, we can see that educational may have influence buying decisions of customers.
 
 - <img src="Customers_By_Marital_Status_image.jpg" width="250">
+- **Customers By Marital Status**
 - From the "Customers By Marital Status" doughnut chart, we could see that we have a graeater number of customers that are married with a customer count of 1,422 and a percentage ratio of 64.49% while the Singles has a customer count of 783 and a percentasge ratio of 35.51%. This indicates that we have a greater number of married customers in this analaysis and marital status must have played a role in the purchasing preferences, purchasing methods and the medium of purchases for these customers.
 
 - <img src="AgeBand_By_Marital_Status_image.jpg" width="300">
+- **Age Band By Marital Status**
 - Diving deeper into the customer demography analysis, in the "Age Band By Marital Status and Education" clustered horizontal bar chart, we could see insightful patterns regarding the distribution of customers across different age bands, marital statuses, and education levels. Here's a breakdown of the findings:
   - Forties (40-49 years):
     This age band comprises the largest number of customers, with a total of 594 individuals. Among these customers, 469 are married, 
@@ -150,14 +153,40 @@ From the analysis, i made the Key Performance Indcator findings below:
   - Twenties (20-29 years): The age band of twenties represents the smallest group of customers, with a total count of 31 individuals.
     Interestingly, among these customers, there are 17 married individuals and 26 single individuals, indicating a higher proportion of 
     singles compared to married individuals in this age group.
-  - Conclusion:
-    This analysis of customer demography by age band and marital status provides valuable insights into the composition of 
-    the customer base. A good understanding of these demographic patterns can help tailor marketing strategies, product offerings, and 
-    customer engagement initiatives to better cater to the preferences and needs of different customer segments.
-    Further analysis and segmentation based on demographic factors can provide deeper insights and opportunities for targeted marketing 
-    and personalized experiences to enhance customer satisfaction and loyalty.
+  - This provides valuable insights into the composition of the customer base. A good understanding of these demographic patterns can 
+    help the food app business tailor marketing strategies, product offerings, and customer engagement initiatives to better cater to 
+    the preferences and needs of different customer segments. Further analysis and segmentation based on demographic factors can provide 
+    deeper insights and opportunities for targeted marketing and personalized experiences to enhance customer satisfaction and loyalty.
 
 - <img src="Total_Monthly_Income_By_AgeBand_image.jpg" width="300">
+- **Total Monthly Income By Age Band**
+- The distribution of total monthly income across different age bands provides valuable insights into customers' purchasing power and preferences. Here's an analysis of how income levels may influence their buying behavior:
+  - Forties (40-49 years): Customers in their forties, with the highest total monthly income of $33 million, likely have significant 
+    purchasing power. They may prioritize quality and convenience in their purchases, opting for higher-priced products and services.
+    Preferences may include preference in luxury items within the food categories.
+  - Fifties (50-59 years): With a total monthly income of $28 million, customers in their fifties also possess substantial purchasing 
+    power. They may prioritize value for money and reliability in their purchases, seeking food products that offer longevity. 
+    Preferences may include home improvements, health and wellness food products.
+  - Sixties (60-69 years): Despite having a slightly lower total monthly income of $27 million, customers in their sixties still 
+    maintain considerable purchasing power. They may prioritize convenience and comfort in their purchases, opting for food products and 
+    services that enhance their lifestyle and well-being. Preferences may include healthcare products.
+  - Thirties (30-39 years): With a total monthly income of $15 million, customers in their thirties exhibit moderate purchasing power.
+    They may prioritize affordability and value in their food purchases, seeking products and services that offer a balance between 
+    quality and cost-effectiveness. Preferences may include food products that align with their lifestyle and aspirations.
+  - Seventies+ (70+ years): Despite having a lower total monthly income of $8 million, customers aged seventy and above still possess 
+    purchasing power, albeit relatively lower compared to younger age groups. They may prioritize simplicity and reliability in their 
+    purchases, opting for food products and services that meet their basic needs and preferences. Preferences may include healthcare 
+    products, household food essentials, and investments in food prducts that helps them maintain their quality of life.
+  - Twenties (20-29 years): Customers in their twenties, with the lowest total monthly income of $2 million, may have limited purchasing 
+    power compared to older age groups. They may prioritize affordability and novelty in their purchases, seeking products and services 
+    that align with their budget constraints and evolving preferences. Preferences may include trendy food products and experiences that 
+    cater to their social and recreational interests.
+  - The distribution of total monthly income across different age bands influences customers' purchasing power and 
+    preferences, shaping their buying behavior and consumption patterns. Understanding these changes is crucial for the food app 
+    businesses to tailor their product offerings, pricing strategies, and marketing campaigns to effectively target and engage with 
+    diverse customer segments. By aligning with customers' income levels and preferences, businesses can optimize their market 
+    positioning and enhance customer satisfaction, ultimately driving sales and fostering long-term loyalty.
+
 
 
 
