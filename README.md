@@ -106,7 +106,7 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 6. Re-ordered all columns accordingly.
 
 **Raw Data**
-- Below a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns (27 column). You can download the dataset [here](FoodAppBusiness.csv).
+- Below is a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns (27 column). You can download the dataset [here](FoodAppBusiness.csv).
 
 ![](Raw_Data.png)
 
