@@ -134,7 +134,7 @@ From the analysis, i made the Key Performance Indcator findings below:
 - The number of Customer Complaint is 20.
   
 - <img src="Customer_By_Graduate_Ratio_image.jpg" width="250">
-- **Customers By Graduate Ration
+- **Customers By Graduate Ratio**
 - Analyzing this data from the aspect of Customers educational level, in the doughnut pie that represents "Customers By Graduate Ratio", we can see that Graduates makes a greater percentage ratio and number of customers in this analysis with 1,953 customers and a percentage of 88.57% while the Non-Graduates Customers are 252 in number with a percentage share of 11.43%. From this chart, we can see that educational may have influence buying decisions of customers.
 
 - <img src="Customers_By_Marital_Status_image.jpg" width="250">
