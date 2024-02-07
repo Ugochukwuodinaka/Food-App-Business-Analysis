@@ -125,7 +125,7 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 ### Project Analysis:
 From the analysis, i made the Key Performance Indcator findings below:
 - The Total Monthly Income from this Food App Business data $113.8M.
-- The Average Mmonthly Income from this Food App Business is $51.622k
+- The Average Monthly Income from this Food App Business is $51.622k
 - The Total Amount Spent on all the food categories is $1.34M.
 - The Total Number of Customers in this analysis is 2,205.
 - The Average Age of Customers in this analysis is 51.
