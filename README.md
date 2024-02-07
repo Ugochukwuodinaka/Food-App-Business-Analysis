@@ -111,7 +111,7 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 ![](Raw_Data.png)
 
 **Final Power Query Editor screenshot**
-- Below a screenshot of a part of the cleaned data in power query editor which cannot be viewed fully here because of the number of its columns too. You can download the full Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
+- Below is a screenshot of a part of the cleaned data in power query editor which cannot be viewed fully here because of the number of its columns too. You can download the full Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
 
 ![](Cleaned_Data_In_Power_Query.png)
 
