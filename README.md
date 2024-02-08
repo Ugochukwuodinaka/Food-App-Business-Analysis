@@ -1,5 +1,5 @@
 # Food-App-Business-Analysis
-![](Food_App_Business_image.jpg)
+![](images/Food_App_Business_image.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -108,19 +108,19 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 **Raw Data**
 - Below is a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns (27 column). You can download the dataset [here](FoodAppBusiness.csv).
 
-![](Raw_Data.png)
+![](images/Raw_Data.png)
 
 **Final Power Query Editor screenshot**
 - Below is a screenshot of a part of the cleaned data in power query editor which cannot be viewed fully here because of the number of its columns too. You can download the full Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
 
-![](Cleaned_Data_In_Power_Query.png)
+![](images/Cleaned_Data_In_Power_Query.png)
 
 ## Visualization in Power BI:
 #### Report 1
-![](Food_App_Business_Analysis_Dashboard_1.jpg)
+![](images/Food_App_Business_Analysis_Dashboard_1.jpg)
 
 #### Report 2
-![](Food_App_Business_Analysis_Dashboard_2.jpg)
+![](images/Food_App_Business_Analysis_Dashboard_2.jpg)
 
 ### Project Analysis:
 From the analysis, i made the Key Performance Indcator findings below:
@@ -133,15 +133,15 @@ From the analysis, i made the Key Performance Indcator findings below:
 - The number of Customers that are Graduates is 1,953
 - The number of Customer Complaint is 20.
   
-- <img src="Customer_By_Graduate_Ratio_image.jpg" width="250">
+- <img src="images/Customer_By_Graduate_Ratio_image.jpg" width="250">
 - **Customers By Graduate Ratio**
 - Analyzing this data from the aspect of Customers educational level, in the doughnut pie that represents "Customers By Graduate Ratio", we can see that Graduates makes a greater percentage ratio and number of customers in this analysis with 1,953 customers and a percentage of 88.57% while the Non-Graduates Customers are 252 in number with a percentage share of 11.43%. From this chart, we can see that educational may have influence buying decisions of customers.
 
-- <img src="Customers_By_Marital_Status_image.jpg" width="250">
+- <img src="images/Customers_By_Marital_Status_image.jpg" width="250">
 - **Customers By Marital Status**
 - From the "Customers By Marital Status" doughnut chart, we could see that we have a graeater number of customers that are married with a customer count of 1,422 and a percentage ratio of 64.49% while the Singles has a customer count of 783 and a percentasge ratio of 35.51%. This indicates that we have a greater number of married customers in this analaysis and marital status must have played a role in the purchasing preferences, purchasing methods and the medium of purchases for these customers.
 
-- <img src="AgeBand_By_Marital_Status_image.jpg" width="300">
+- <img src="images/AgeBand_By_Marital_Status_image.jpg" width="300">
 - **Age Band By Marital Status**
 - Diving deeper into the customer demography analysis, in the "Age Band By Marital Status and Education" clustered horizontal bar chart, we could see insightful patterns regarding the distribution of customers across different age bands, marital statuses, and education levels. Here's a breakdown of the findings:
   - Forties (40-49 years):
@@ -167,7 +167,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     the preferences and needs of different customer segments. Further analysis and segmentation based on demographic factors can provide 
     deeper insights and opportunities for targeted marketing and personalized experiences to enhance customer satisfaction and loyalty.
 
-- <img src="Total_Monthly_Income_By_AgeBand_image.jpg" width="300">
+- <img src="images/Total_Monthly_Income_By_AgeBand_image.jpg" width="300">
 - **Total Monthly Income By Age Band**
 - The distribution of total monthly income across different age bands provides valuable insights into customers' purchasing power and preferences. Here's an analysis of how income levels may influence their buying behavior:
   - Forties (40-49 years): Customers in their forties, with the highest total monthly income of $33 million, likely have significant 
@@ -196,7 +196,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     diverse customer segments. By aligning with customers' income levels and preferences, businesses can optimize their market 
     positioning and enhance customer satisfaction, ultimately driving sales and fostering long-term loyalty.
 
-- <img src="Purchase_Method_By_AgeBand_image.jpg" width="300">
+- <img src="images/Purchase_Method_By_AgeBand_image.jpg" width="300">
 - **Purchase Method By Age Band**
 - This analysis sheds light on how age influences the choice of purchase method. Here's an analysis of the findings:
   - Forties (40-49 years): Customers in their forties demonstrate a preference for store purchases, with 3,740 transactions recorded.
@@ -238,7 +238,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     and offline retail offerings, businesses can effectively engage with customers across all age groups, driving sales and fostering 
     long-term loyalty in an increasingly competitive retail landscape.
 
-- <img src="No_Of_Customers_Acquired_By_Campaigns_image.jpg" width="300">
+- <img src="images/No_Of_Customers_Acquired_By_Campaigns_image.jpg" width="300">
 - **No Of Customers Acquired By Campaigns**
 - This analysis provides valuable insights into the effectiveness of different campaign strategies. Here's an analysis of the factors that may have influenced the varying levels of success across the campaigns:
   - 4th Campaign (164 customers converted): The 4th campaign emerged as the most successful, converting 164 customers.          
@@ -286,7 +286,7 @@ From the analysis, i made the Key Performance Indcator findings below:
   campaign provides valuable insights for optimizing future marketing initiatives, identifying best practices, and addressing areas for 
   improvement to drive higher conversion rates and overall campaign success.
 
-- <img src="Amount_Spent_On_Food_Categories_image.jpg" width="300">
+- <img src="images/Amount_Spent_On_Food_Categories_image.jpg" width="300">
 - **Amount Spent On Food Categories**
 - This analysis provides insights into consumer preferences and purchasing behavior. Here's an analysis based on the food categories 
   details:
@@ -341,7 +341,7 @@ From the analysis, i made the Key Performance Indcator findings below:
        savory dishes, driving expenditure within this category among consumers seeking culinary diversity and experimentation.
 - This analysis highlights the diverse preferences and consumption patterns of consumers, with significant expenditure observed across various categories. An understanding of the factors influencing spending within each category is essential for the Food App Business to tailor their product offerings, marketing strategies, and promotional activities to effectively meet consumer needs and drive sales.
 
-- <img src="Amount_Spent_On_Food_Categories_By_AgeBand_image.jpg" width="800">
+- <img src="images/Amount_Spent_On_Food_Categories_By_AgeBand_image.jpg" width="800">
 - **Amount Spent On Food Categories By Age Band**
 - This analysis provides insights into consumer spending behavior and preferences across various demographic segments. Here's an analysis based on this details:
 - Age Band of Fifties: Customers in their fifties demonstrate significant expenditure across various food categories, with the highest 
