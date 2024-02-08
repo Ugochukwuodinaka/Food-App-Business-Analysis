@@ -115,6 +115,11 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 
 ![](images/Cleaned_Data_In_Power_Query.png)
 
+
+## Data Modelling
+No modelling was required since we need just a table for the analysis.
+
+
 ## Visualization in Power BI:
 #### Report 1
 ![](images/Food_App_Business_Analysis_Dashboard_1.jpg)
