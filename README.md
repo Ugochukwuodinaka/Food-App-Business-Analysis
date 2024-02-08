@@ -15,7 +15,7 @@
 In today's digital age, the food industry has witnessed a significant transformation with the advent of food sales and delivery business applications. These applications have revolutionized the way people order, consume, and experience food. This project aims to conduct a comprehensive analysis of the food app business, focusing on various aspects including market trends, customer demorgraphy, customer behavior, customer income, costumer purchase method, and provide insights for potential business growth.
 
 ### Objectives:
-- To analyze the customer demorgraphy and the role their age, income, education status, and marital status plays in their Food purchase preferences
+- To analyze the customer demography and the role their age, income, education status, and marital status plays in their Food purchase preferences
 - To analyze customer preferences and behaviors regarding food ordering and delivery.
 - To analyze the effecto of food campaigns on food sales for this food app business.
 - To analyze the amount spent on food categories and purchasing method as influenced by customer demorgraphy
