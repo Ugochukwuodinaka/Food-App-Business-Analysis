@@ -300,14 +300,14 @@ From the analysis, i made the Key Performance Indcator findings below:
        during certain periods.
      - __Gifting and Sharing:__ Sweet products are popular choices for gifting or sharing with friends and family, especially during holidays or festive seasons, driving higher 
        expenditure within this category.
-- Fruits: Fruits represent a category of fresh produce, with a total amount spent of $58,219 and a share ratio of 4.35%.
-   - Potential Influencing Factors:
-     - Dietary Preferences: Fruits are perceived as healthy, nutritious options and are often included in balanced diets, leading to consistent demand and expenditure within this 
+- __Fruits:__ Fruits represent a category of fresh produce, with a total amount spent of $58,219 and a share ratio of 4.35%.
+   - __Potential Influencing Factors:__
+     - __Dietary Preferences:__ Fruits are perceived as healthy, nutritious options and are often included in balanced diets, leading to consistent demand and expenditure within this 
        category among health-conscious consumers.
-     - Seasonal Availability: The availability of seasonal fruits may influence purchasing patterns and expenditure within this category, with consumers allocating budgets for a variety 
-       of fresh produce based on seasonal availability and preferences.
-     - Culinary Uses: Fruits are versatile ingredients used in various culinary applications, including desserts, smoothies, salads, and savory dishes, driving expenditure within this 
-       category among consumers seeking culinary diversity and experimentation.
+     - __Seasonal Availability:__ The availability of seasonal fruits may influence purchasing patterns and expenditure within this category, with consumers allocating budgets for a 
+       variety of fresh produce based on seasonal availability and preferences.
+     - __Culinary Uses:__ Fruits are versatile ingredients used in various culinary applications, including desserts, smoothies, salads, and savory dishes, driving expenditure within 
+       this category among consumers seeking culinary diversity and experimentation.
 - This analysis highlights the diverse preferences and consumption patterns of consumers, with significant expenditure observed across various categories. An understanding of the factors influencing spending within each category is essential for the Food App Business to tailor their product offerings, marketing strategies, and promotional activities to effectively meet consumer needs and drive sales.
 
 - <img src="images/Amount_Spent_On_Food_Categories_By_AgeBand_image.jpg" width="800">
