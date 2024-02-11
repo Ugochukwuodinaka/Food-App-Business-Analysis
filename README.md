@@ -17,7 +17,7 @@ In today's digital age, the food industry has witnessed a significant transforma
 ### Objectives:
 - To analyze the customer demography and the role their age, income, education status, and marital status plays in their Food purchase preferences
 - To analyze customer preferences and behaviors regarding food ordering and delivery.
-- To analyze the effecto of food campaigns on food sales for this food app business.
+- To analyze the effects of food campaigns on food sales for this food app business.
 - To analyze the amount spent on food categories and purchasing method as influenced by customer demorgraphy
 - To assess the impact of technological advancements on the food app business.
 - To provide insights and recommendations for businesses operating in this space.
