@@ -129,14 +129,14 @@ No modelling was required since we need just a table for the analysis.
 
 ### Project Analysis:
 From the analysis, i made the Key Performance Indcator findings below:
-- The Total Monthly Income from this Food App Business data $113.8M.
-- The Average Monthly Income from this Food App Business is $51.622k
-- The Total Amount Spent on all the food categories is $1.34M.
-- The Total Number of Customers in this analysis is 2,205.
-- The Average Age of Customers in this analysis is 51.
-- The number of Customers that are Married is 1,422
-- The number of Customers that are Graduates is 1,953
-- The number of Customer Complaint is 20.
+- The Total Monthly Income from this Food App Business data __$113.8M.__
+- The Average Monthly Income from this Food App Business is __$51.622k.__
+- The Total Amount Spent on all the food categories is __$1.34M.__
+- The Total Number of Customers in this analysis is __2,205.__
+- The Average Age of Customers in this analysis is __51.__
+- The number of Customers that are Married is __1,422__
+- The number of Customers that are Graduates is __1,953__
+- The number of Customer Complaint is __20.__
   
 - <img src="images/Customer_By_Graduate_Ratio_image.jpg" width="250">
 - **Customers By Graduate Ratio**
