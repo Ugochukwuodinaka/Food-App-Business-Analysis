@@ -1,4 +1,4 @@
-# Food-App-Business-Analysis
+# Food App Business Analysis
 ![](images/Food_App_Business_image.jpg)
 
 ## Table of Contents
