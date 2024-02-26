@@ -81,6 +81,13 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 26. __TotalNoOfCampaignAccepted:__ Total number of marketing campaigns accepted by the customer.
 23. __CustomerComplain:__ Binary variable indicating whether the customer has complained (1) or not (0).
 
+### Skills Utilized
+1. Data Cleaning
+2. Data Visualiziation
+3. Descriptive Analytics
+4. Critical Thinking and Problem Solving
+5. Communication and Reporting
+
 ### Tools Used
 1. Power Query Editor
     - Was used to:
@@ -368,3 +375,5 @@ Based on the analysis conducted on the Food App Business and the insights gained
 - __Improve Operational Efficiency and Cost Management:__ Streamline logistics, inventory management, and delivery operations to reduce costs and enhance operational efficiency. Implement dynamic pricing strategies, promotional campaigns, and loyalty programs to incentivize customer spending while maximizing profitability. Continuously monitor key performance indicators (KPIs) such as customer acquisition cost (CAC), customer lifetime value (CLV), and return on investment (ROI) to assess the effectiveness of marketing initiatives and optimize resource allocation.
 - __Prioritize Customer Satisfaction and Quality Assurance:__ Prioritize food quality, freshness, and consistency to ensure a positive dining experience and build trust among customers. Implement robust quality assurance protocols and food safety standards to uphold regulatory compliance and mitigate risks associated with food handling and delivery. Proactively seek feedback from customers through surveys, reviews, and ratings to identify areas for improvement and address any concerns or issues promptly.
 - By implementing these recommendations, the Food App Business can strengthen its market position, attract new customers, and drive sustainable growth and profitability in the competitive food delivery industry.
+
+## Thnaks Foe Following!
