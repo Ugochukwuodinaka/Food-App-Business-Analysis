@@ -104,23 +104,22 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
         5. Tooltips
         6. Button
 
-### Data Cleaning, Transformation and Loading using the Power Query Editor:
-1. Changed the column type for __"MonthlyIncome"__ from text to Whole Number (int64).
-2. Changed the column type for __"ActiveSinceDays"__ to Whole Number (int64) from text.
-3. Added a new column __"AgeBand"__ which extracts its information from the __"Age"__ column and groups them into: Twenties, Thirties, Forties, Fifties, Sixties, and Seventies+ using the 'If function'.
-4. Added a new column __"Graduate_Status"__ which picks its information from the __"Graduate"__ column and transforms them by grouping them into __'Graduate'__ and __'Non-Graduate'__. using the 'If fdunction'.
-5. Added a new column __"Marital_Status"__ from the __"Married"__ column groups the data in the __"Married"__ column into __'Married'__ and __'Single'__ using the 'If function'.
-6. Re-ordered all columns accordingly.
+### Data Cleaning, Transformation and Loading using the MS Sql Server:
+1. Added a new column __"AgeBand"__ which extracts its information from the __"Age"__ column and groups them into: Twenties, Thirties, Forties, Fifties, Sixties, and Seventies+ using the 'If function'.
+2. Added a new column __"Graduate_Status"__ which picks its information from the __"Graduate"__ column and transforms them by grouping them into __'Graduate'__ and __'Non-Graduate'__. using the 'If fdunction'.
+3. Added a new column __"Marital_Status"__ from the __"Married"__ column groups the data in the __"Married"__ column into __'Married'__ and __'Single'__ using the 'If function'.
+4. Changed all the columns to the right column types.
+5. Re-ordered all columns accordingly (Power Query).
 
 **Raw Data**
 - Below is a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns (27 column). You can download the dataset [here](FoodAppBusiness.csv).
 
 ![](images/Raw_Data.png)
 
-**Final Power Query Editor screenshot**
-- Below is a screenshot of a part of the cleaned data in power query editor which cannot be viewed fully here because of the number of its columns too. You can download the full Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
+**Final MS Sql Serverr screenshot**
+- Below is a screenshot of a part of the cleaned data in MS Sql Server query editor which cannot be viewed fully here because of the rows of queries. You can download the full Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
 
-![](images/Cleaned_Data_In_Power_Query.png)
+![](images/MS_Sql_Server_Screenshot.png)
 
 
 ## Data Modelling
