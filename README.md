@@ -125,13 +125,13 @@ You can preview the dataset [here](FoodAppBusiness.csv).
 
 
 **Final MS Sql Server screenshot**
-- Below is a screenshot of a part of the cleaned data in MS Sql Server query editor which cannot be viewed fully here because of the rows of queries. You can download the full Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
+- Below is a screenshot of a part of the cleaned data in MS Sql Server query editor which cannot be viewed fully here because of the rows of queries. You can access the full Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
 
 Sql Query Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)   
 
-You can access the MS Sql Server query file [here](FoodAppBusiness_Query.sql)
+You can preview the MS Sql Server query file [here](FoodAppBusiness_Query.sql)
 
 
 
