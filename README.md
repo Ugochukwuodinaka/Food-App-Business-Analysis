@@ -120,10 +120,10 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 ![](images/Raw_Data.png)
 
 
-**Final MS Sql Serverr screenshot**
+**Final MS Sql Server screenshot**
 - Below is a screenshot of a part of the cleaned data in MS Sql Server query editor which cannot be viewed fully here because of the rows of queries. You can download the full Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
 
-Sql Query Screenshot                                                                         |                                
+Sql Query Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)   
 
