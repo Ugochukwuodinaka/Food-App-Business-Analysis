@@ -127,7 +127,7 @@ Sql Query Screenshot                                                            
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)   
 
-You can access the MS Sql Server query file [here](Mexican_Restaurant_Rating_Analysis_Project.sql)
+You can access the MS Sql Server query file [here](FoodAppBusiness_Query.sql)
 
 
 
