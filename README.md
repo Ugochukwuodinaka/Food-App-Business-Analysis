@@ -89,11 +89,12 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 5. Communication and Reporting
 
 ### Tools Used
-1. Power Query Editor
+1. MS Sql Server
     - Was used to:
         1. Extract,
-        2. Transform, and
-        3. Load all the datasets for this analysis.
+        2. Clean,
+        3. Transform, and
+        4. Load all the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
@@ -104,6 +105,7 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
         5. Tooltips
         6. Button
 
+
 ### Data Cleaning, Transformation and Loading using the MS Sql Server:
 1. Added a new column __"AgeBand"__ which extracts its information from the __"Age"__ column and groups them into: Twenties, Thirties, Forties, Fifties, Sixties, and Seventies+ using the 'If function'.
 2. Added a new column __"Graduate_Status"__ which picks its information from the __"Graduate"__ column and transforms them by grouping them into __'Graduate'__ and __'Non-Graduate'__. using the 'If fdunction'.
@@ -111,15 +113,22 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 4. Changed all the columns to the right column types.
 5. Re-ordered all columns accordingly (Power Query).
 
+
 **Raw Data**
 - Below is a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns (27 column). You can download the dataset [here](FoodAppBusiness.csv).
 
 ![](images/Raw_Data.png)
 
+
 **Final MS Sql Serverr screenshot**
 - Below is a screenshot of a part of the cleaned data in MS Sql Server query editor which cannot be viewed fully here because of the rows of queries. You can download the full Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
 
-![](images/MS_Sql_Server_Screenshot.png)
+Sql Query Screenshot                                                                         |                                
+:---------------------------------------------------------------------------------:|
+![](images/MS_Sql_Server_Screenshot.png)   
+
+You can access the MS Sql Server query file [here](Mexican_Restaurant_Rating_Analysis_Project.sql)
+
 
 
 ## Data Modelling
