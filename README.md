@@ -115,9 +115,13 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 
 
 **Raw Data**
-- Below is a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns (27 column). You can download the dataset [here](FoodAppBusiness.csv).
+- Below is a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns (27 column). 
 
+Raw Data Screenshot                                                               |                       
+:---------------------------------------------------------------------------------:|
 ![](images/Raw_Data.png)
+
+You can preview the dataset [here](FoodAppBusiness.csv).
 
 
 **Final MS Sql Server screenshot**
