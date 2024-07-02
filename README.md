@@ -128,6 +128,7 @@ Raw Data Screenshot                                                             
 
 You can preview the dataset [here](FoodAppBusiness.csv).
 <br />
+<br />
 
 **Final MS Sql Server screenshot**
 - Below is a screenshot of a part of the cleaned data in MS Sql Server query editor which cannot be viewed fully here because of the rows of queries. You can access the complete Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
