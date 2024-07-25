@@ -291,3 +291,4 @@ Based on the analysis conducted on the Food App Business and the insights gained
 <br />
 
 ## Thank You For Following Through!
+![](images/Thank_you.jpg)
