@@ -227,11 +227,11 @@ The total monthly income distribution across age groups drives purchasing power,
 
 - **No Of Customers Acquired By Campaigns**
 - This analysis provides valuable insights into the effectiveness of different campaign strategies. Here's an analysis of the factors that may have influenced the varying levels of success across the campaigns:
- - __4th Campaign (164 customers converted):__ Most effective, thanks to focused messages well-timed delivery, and custom deals. This approach brought back 164 customers.
- - __3rd Campaign (163 customers converted):__ Was good because of some attractive offers, use of multiple channels, and smart customer grouping.
- - __5th Campaign (161 customers converted):__ 161 customers came back. This effort was ranked third in success. A strategy filled with clever messages, clear next steps, and interesting campaign parts might explain this.
- - __1st Campaign (142 customers converted):__ Returned 142 customers. This campaign was ranked in the fourth place. Attributes like building brand recognition, trying out new ideas, and market shifts may have affected how well this campaign did.
- - __2nd Campaign (30 customers converted):__ Was the least effective. This could probably be because the campaign messages didn't fit well, or the wrong people saw them, or something went wrong when running it. 
+  - __4th Campaign (164 customers converted):__ Most effective, thanks to focused messages well-timed delivery, and custom deals. This approach brought back 164 customers.
+  - __3rd Campaign (163 customers converted):__ Was good because of some attractive offers, use of multiple channels, and smart customer grouping.
+  - __5th Campaign (161 customers converted):__ 161 customers came back. This effort was ranked third in success. A strategy filled with clever messages, clear next steps, and interesting campaign parts might explain this.
+  - __1st Campaign (142 customers converted):__ Returned 142 customers. This campaign was ranked in the fourth place. Attributes like building brand recognition, trying out new ideas, and market shifts may have affected how well this campaign did.
+  - __2nd Campaign (30 customers converted):__ Was the least effective. This could probably be because the campaign messages didn't fit well, or the wrong people saw them, or something went wrong when running it. 
 <br />
 <br />
 
