@@ -14,7 +14,8 @@
 
 ## Project Overview
 ### Introduction:
-In today's digital age, the food industry has witnessed a significant transformation with the advent of food sales and delivery business applications. These applications have revolutionized the way people order, consume, and experience food. This project aims to conduct a comprehensive analysis of the food app business, focusing on various aspects including market trends, customer demography, customer behavior, customer income, costumer purchase method, and provide insights for potential business growth.
+Today – or in the contemporary world – one can observe the change in the food industry due to the emergence of the food sales and delivery business applications. These applications have completely changed the approach of the population in relation to ordering, buying, and consuming food. This panalysis project will seek to analyzes the food app business and its factors such as the market, customers, customers’ age, customers’ prosperity and the method of purchase with view to offering insights for business expansion.
+
 
 ### Objectives:
 - To analyze the customer demography and the role their age, income, education status, and marital status plays in their Food purchase preferences
@@ -25,29 +26,18 @@ In today's digital age, the food industry has witnessed a significant transforma
 - To provide insights and recommendations for businesses operating in this space.
 
 ### Expected Findings:
-1.  __Analysis of Customer Demography and Purchase Preferences:__
-     - Understanding how age, income, education status, and marital status influence food purchase preferences.
-     - Segmentation of customer preferences based on demographic factors to tailor marketing strategies.
-
-2. __Customer Preferences and Behaviors Regarding Food Ordering and Delivery:__
-     - Identification of preferred food categories, pricing sensitivity, and delivery preferences.
-     - Analysis of factors influencing customer loyalty and satisfaction, such as delivery time and food quality.
-
-3. __Effect of Food Campaigns on Food Sales:__
-     - Evaluation of the impact of marketing campaigns and promotions on food sales.
-     - Assessment of the effectiveness of different marketing channels in driving customer engagement and sales.
-
-4. __Amount Spent on Food Categories and Purchasing Method by Demography:__
-     - Analysis of spending patterns across different food categories (e.g., wines, meat, fish, sweet, fruits , gold).
-     - Understanding how demographic factors influence the choice of purchasing method (e.g., store purchsases, web purchases, catalog purchases).
-
-5. __Impact of Technological Advancements:__
-     - Assessment of the role of technological innovations such as AI, data analytics, and delivery logistics in improving customer experience and operational efficiency.
-     - Identification of emerging technologies with the potential to disrupt the food app business landscape.
-
-6. __Insights and Recommendations for the food app Business:__
-     - Providing actionable insights for the food app business to enhance their offerings, improve customer engagement, and stay competitive.
-     - Recommendations for leveraging technology, optimizing marketing strategies, and catering to specific demographic segments effectively.
+- Analysis of Customer Demography and Purchase Preferences:
+   - Interference of customers’ demographic characteristics with their food buying behavior to ensure proper segmentation for marketing purposes.
+- Customer Preferences and Behaviors Regarding Food Ordering and Delivery:
+   - Based on the study it was found that product decisions include preferred food categories and delivery preferences, and behavioral intentions consist of the factors that influence customer loyalty and satisfaction.
+- Effect of Food Campaigns on Food Sales:
+   - An analysis of marketing communication on the subsequent impact on the sales and efficiency of various promotional media.
+- Amount Spent on Food Categories and Purchasing Method by Demography:
+   - The current trends that characterize the consumption of the food chain with emphasis on different categories of foods, and the trends in behaviors adopted by the people in their procurement processes which have been influenced by the demographic.
+- Impact of Technological Advancements:
+   - Technology’s part in customer experience and optimizing the business, and what may be the new emerging technologies that bring change in the food application business.
+- Insights and Recommendations for the Food App Business:
+   - Recommended steps to improve delivery and marketing of products and services and advice on how technology can be used and strategies improved.
 <br />
 <br />
 
@@ -56,33 +46,36 @@ The "FoodAppBusiness.csv" dataset contains information related to the operations
 Each row represents a single observation or transaction, with each column capturing different attribute. The dataset has 27 columns and 2,205 rows. The dataset is in .csv file and can be viewed or downloaded [here](FoodAppBusiness.csv)
 
 here's an overview of the "FoodAppBusiness.csv" dataset along with explanations of the column names:
-1. __MonthlyIncome:__ Monthly income of the customer.
-2. __ActiveSinceDays:__ Number of days since the customer has been active on the food app.
-3. __Age:__ Age of the customer.
-4. __Graduate:__ Binary variable indicating whether the customer is a graduate (1) or not (0).
-5. __Married:__ Binary variable indicating whether the customer is married (1) or not (0).
-6. __Single:__ Binary variable indicating whether the customer is single (1) or not (0).
-7. __NoOfChildren:__ Number of children the customer has.
-8. __NoOfTeenager:__ Number of teenagers the customer has.
-9. __NoOfDaysSinceLastPurchase:__ Number of days since the customer's last purchase on the food app.
-10. __AmountSpentOnWines:__ Amount spent by the customer on wines.
-11. __AmountSpentOnFruits:__ Amount spent by the customer on fruits.
-12. __AmountSpentOnMeat:__ Amount spent by the customer on meat.
-13. __AmountSpentOnFish:__ Amount spent by the customer on fish.
-14. __AmountSpentOnSweet:__ Amount spent by the customer on sweets.
-15. __AmountSpentOnGold:__ Amount spent by the customer on gold.
-16. __NoOfDealsWithDiscount:__ Number of deals the customer accepted with a discount.
-17. __NoOfWebPurchase:__ Number of purchases made by the customer via the web.
-18. __NoOfCatalogPurchase:__ Number of purchases made by the customer via catalogs.
-19. __NoOfStorePurchase:__ Number of purchases made by the customer in-store.
-20. __NoOfWebVisitsMonth:__ Number of web visits made by the customer in a month.
-21. __PurchasedIn1stCampaign:__ Binary variable indicating whether the customer made a purchase during the first campaign (1) or not (0).
-22. __PurchasedIn2ndCampaign:__ variable indicating whether the customer made a purchase during the second campaign (1) or not (0).
-23. __PurchasedIn3rdCampaign:__ variable indicating whether the customer made a purchase during the third campaign (1) or not (0).
-24. __PurchasedIn4thCampaign:__ variable indicating whether the customer made a purchase during the fourth campaign (1) or not (0).
-25. __PurchasedIn5thCampaign:__ variable indicating whether the customer made a purchase during the fifth campaign (1) or not (0).
-26. __TotalNoOfCampaignAccepted:__ Total number of marketing campaigns accepted by the customer.
-23. __CustomerComplain:__ Binary variable indicating whether the customer has complained (1) or not (0).
+
+| Table                              | Field                    | Description                            |            
+|:-----------------------------------|:------------------------ |:-------------------------------------- |
+|FoodAppBussiness.csv                | MonthlyIncome            | Monthly income of the customer    |
+|                                    | ActiveSinceDays          | Number of days since the customer has been active on the food app     |
+|                                    | Age                      | Age of the customer         |
+|                                    | Graduate                 | Binary variable indicating whether the customer is a graduate (1) or not (0)         |
+|                                    | Married                  | Binary variable indicating whether the customer is married (1) or not (0)        |
+|                                    | Single                   | Binary variable indicating whether the customer is single (1) or not (0)         |
+|                                    | NoOfChildren             | Number of children the customer has        |
+|                                    | NoOfTeenager             | Number of teenagers the customer has        |
+|                                    | NoOfDaysSinceLastPurchase| Number of days since the customer's last purchase on the food app.         |
+|                                    | AmountSpentOnWines       | Amount spent by the customer on wines         |
+|                                    | AmountSpentOnFruits      | Amount spent by the customer on fruits       |
+|                                    | AmountSpentOnMeat        | Amount spent by the customer on meat         |
+|                                    | AmountSpentOnFish        | Amount spent by the customer on fish        |
+|                                    | AmountSpentOnSweet       | Amount spent by the customer on sweets        |
+|                                    | AmountSpentOnGold        | Amount spent by the customer on gold         |
+|                                    | NoOfDealsWithDiscount    | Number of deals the customer accepted with a discount       |
+|                                    | NoOfWebPurchase          | Number of purchases made by the customer via the web      |
+|                                    | NoOfCatalogPurchase      | Number of purchases made by the customer via catalogs     |
+|                                    | NoOfStorePurchase        | Number of purchases made by the customer in-store         |
+|                                    | NoOfWebVisitsMonth       | Number of web visits made by the customer in a month         |
+|                                    | PurchasedIn1stCampaign   | Binary variable indicating whether the customer made a purchase during the first campaign (1) or not (0)       |
+|                                    | PurchasedIn2ndCampaign   | variable indicating whether the customer made a purchase during the second campaign (1) or not (0)         |
+|                                    | PurchasedIn3rdCampaign   | variable indicating whether the customer made a purchase during the third campaign (1) or not (0)        |
+|                                    | PurchasedIn4thCampaign   | variable indicating whether the customer made a purchase during the fourth campaign (1) or not (0)       |
+|                                    | PurchasedIn5thCampaign   | variable indicating whether the customer made a purchase during the fifth campaign (1) or not (0)        |
+|                                    | TotalNoOfCampaignAccepted| Total number of marketing campaigns accepted by the customer        |
+|                                    | CustomerComplain         | Binary variable indicating whether the customer has complained (1) or not (0)        |
 <br />
 
 ### Skills Utilized
