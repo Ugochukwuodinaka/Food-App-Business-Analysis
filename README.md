@@ -240,52 +240,18 @@ The total monthly income distribution across age groups drives purchasing power,
 - **Amount Spent On Food Categories**
 - This analysis provides insights into consumer preferences and purchasing behavior. Here's an analysis based on the food categories 
   details:
-- __Wines:__ Wines emerge as the top category in terms of total amount spent, with a substantial $675,093, representing a significant share 
-  ratio of 50.45%.
-   - __Potential Influencing Factors:__
-     - __Lifestyle Preferences:__ Consumers may prioritize purchasing wines for social occasions, celebrations, or personal enjoyment, contributing to higher expenditure in this 
-       category.
-     - __Perceived Value:__ Premium wines may command higher prices, leading to increased spending among consumers who perceive wine as a status symbol or luxury item.
-     - __Seasonal Trends:__ Factors such as holidays, special events, or cultural traditions may influence wine consumption patterns, leading to fluctuations in spending within this 
-       category.
-- __Meat:__ Meat follows closely behind wines in terms of total amount spent, with $364,513, comprising a substantial share ratio of 27.24%.
-   - __Potential Influencing Factors:__
-     - __Dietary Preferences:__ Meat is a staple protein source in many diets, leading to consistent demand and expenditure within this category.
-     - __Culinary Trends:__ Consumers may allocate significant budgets for premium cuts of meat or specialty products, driven by culinary trends, health considerations, or cultural 
-       preferences.
-     - __Occasional Purchases:__ Purchases of meat for special occasions, barbecues, or family gatherings may contribute to higher expenditure within this category during certain 
-       periods.
-- __Gold:__ Gold represents a unique category within food spending, with a total amount spent of $97,146 and a share ratio of 7.26%.
-   - __Potential Influencing Factors:__
-     - __Luxury Consumption:__ Gold-coated or edible gold products may be considered luxury items or novelty gifts, leading to higher expenditure among consumers seeking indulgent 
-       experiences.
-     - __Special Occasions:__ Gold-based food products may be purchased for special events, celebrations, or as part of gourmet dining experiences, contributing to occasional spikes in 
-       spending within this category.
-     - __Cultural Significance:__ Gold has symbolic value in many cultures, influencing consumption patterns and expenditure within this category among certain demographic segments.
-- __Fish:__ Fish ranks fourth in terms of total amount spent, with $83,253, and a share ratio of 6.22%.
-   - __Potential Influencing Factors:__
-     - __Health Consciousness:__ Fish is often perceived as a healthy protein source rich in omega-3 fatty acids, leading to consistent demand and expenditure within this category among 
-       health-conscious consumers.
-     - __Culinary Diversity:__ Consumers may allocate budgets for a variety of fish species, seafood products, driven by culinary diversity, taste preferences, and cultural influences.
-     - __Seasonal Availability:__ Factors such as seasonal fishing quotas, weather conditions, or environmental concerns may influence the availability and pricing of fish, leading to 
-       fluctuations in spending within this category.
-- __Sweet:__ Sweet products represent a category of indulgent treats, with a total amount spent of $59,818 and a share ratio of 4.47%.
-   - __Potential Influencing Factors:__
-     - __Occasional Indulgence:__ Sweet products such as desserts, chocolates, or confectionery items are often purchased for special occasions, celebrations, or as indulgent treats, 
-       contributing to periodic spikes in spending within this category.
-     - __Emotional Comfort:__ Consumers may seek comfort or stress relief through the consumption of sweet products, leading to consistent demand and expenditure within this category 
-       during certain periods.
-     - __Gifting and Sharing:__ Sweet products are popular choices for gifting or sharing with friends and family, especially during holidays or festive seasons, driving higher 
-       expenditure within this category.
-- __Fruits:__ Fruits represent a category of fresh produce, with a total amount spent of $58,219 and a share ratio of 4.35%.
-   - __Potential Influencing Factors:__
-     - __Dietary Preferences:__ Fruits are perceived as healthy, nutritious options and are often included in balanced diets, leading to consistent demand and expenditure within this 
-       category among health-conscious consumers.
-     - __Seasonal Availability:__ The availability of seasonal fruits may influence purchasing patterns and expenditure within this category, with consumers allocating budgets for a 
-       variety of fresh produce based on seasonal availability and preferences.
-     - __Culinary Uses:__ Fruits are versatile ingredients used in various culinary applications, including desserts, smoothies, salads, and savory dishes, driving expenditure within 
-       this category among consumers seeking culinary diversity and experimentation.
-- This analysis highlights the diverse preferences and consumption patterns of consumers, with significant expenditure observed across various categories. An understanding of the factors influencing spending within each category is essential for the Food App Business to tailor their product offerings, marketing strategies, and promotional activities to effectively meet consumer needs and drive sales.
+  - __Wines:__ Top category with $675,093 spent, 50.45% share. 
+      - __Factors:__ People buy it for parties, see it as fanciful, and seasons affect its sales. 
+  - __Meat:__ Second highest with $364,513 spent, 27.24% share. 
+      - __Factors:__ Main protein source, cooking trends, and special events drive sales. 
+  - __Gold:__ Unique category with $97,146 spent, 7.26% share. 
+      - __Factors:__ Viewed as fancy or unusual often bought for big events or cultural reasons. 
+  - __Fish:__ Fourth with $83,253 spent, 6.22% share. 
+      - __Factors:__ Health-smart food, diverse cooking options and seasons affect availability. 
+  - __Sweet:__ Total spending of $59,818, 4.47% share. 
+      - __Factors:__ Treat for some time, make people feel good, common as gifts. 
+  - __Fruits:__ $58,219 spent, 4.35% share. 
+      - __Factors:__ Good for health, available by season, and used in many ways when cooking.
 <br />
 <br />
 
