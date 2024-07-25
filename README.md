@@ -80,10 +80,11 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 
 ### Skills Utilized
 1. Data Cleaning
-2. Data Visualiziation
+2. Data Visualization
 3. Descriptive Analytics
-4. Critical Thinking and Problem Solving
-5. Communication and Reporting
+4. Analytical and Critical Thinking
+5. Problem Solving
+6. Communication and Reporting
 <br />
 
 ### Tools Used
@@ -105,15 +106,15 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 <br />
 
 ### Data Cleaning, Transformation and Loading using the MS Sql Server:
-1. Added a new column __"AgeBand"__ which extracts its information from the __"Age"__ column and groups them into: Twenties, Thirties, Forties, Fifties, Sixties, and Seventies+ using the 'If function'.
-2. Added a new column __"Graduate_Status"__ which picks its information from the __"Graduate"__ column and transforms them by grouping them into __'Graduate'__ and __'Non-Graduate'__. using the 'If fdunction'.
+1. Added a new column __"AgeBand"__ which extracts its information from the __"Age"__ column and groups them into Twenties, Thirties, Forties, Fifties, Sixties, and Seventies+ using the 'If function'.
+2. Added a new column __"Graduate_Status"__ which picks its information from the __"Graduate"__ column and transforms them by grouping them into __'Graduate'__ and __'Non-Graduate'__. using the 'If function'.
 3. Added a new column __"Marital_Status"__ from the __"Married"__ column groups the data in the __"Married"__ column into __'Married'__ and __'Single'__ using the 'If function'.
 4. Changed all the columns to the right column types.
 5. Re-ordered all columns accordingly (Power Query).
 <br />
 
 **Raw Data**
-- Below is a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here because of the enormous number of its columns (27 column). 
+- Below is a screenshot of a part of the raw data in .csv file format with 27 columns. 
 
 Raw Data Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
@@ -124,7 +125,7 @@ You can preview the dataset [here](FoodAppBusiness.csv).
 <br />
 
 **Final MS Sql Server screenshot**
-- Below is a screenshot of a part of the cleaned data in MS Sql Server query editor which cannot be viewed fully here because of the rows of queries. You can access the complete Power BI project document [here](FOOD%20APP%20BUSINESS%20ANALYSIS.pbix).
+- Below is a screenshot of a part of the cleaned data in MS Sql Server query editor. 
 
 Sql Query Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
@@ -135,7 +136,7 @@ You can preview the MS Sql Server query file [here](FoodAppBusiness_Query.sql)
 <br />
 
 ## Data Modelling
-No modelling was required since we need just a table for the analysis.
+Data modelling wasn't required because we have just a table for this analysis.
 <br />
 <br />
 
@@ -150,11 +151,11 @@ No modelling was required since we need just a table for the analysis.
 
 ### Project Analysis:
 From the analysis, i made the Key Performance Indcator findings below:
-- The Total Monthly Income from this Food App Business data is __$113.8M.__
-- The Average Monthly Income from this Food App Business is __$51.622k.__
+- The Total Monthly Income from the Food App Business data is __$113.8M.__
+- The Average Monthly Income from the Food App Business is __$51.622k.__
 - The Total Amount Spent on all the food categories is __$1.34M.__
-- The Total Number of Customers in this analysis is __2,205.__
-- The Average Age of Customers in this analysis is __51.__
+- The Total Number of Customers in the analysis is __2,205.__
+- The Average Age of Customers in the analysis is __51.__
 - The number of Customers that are Married is __1,422__
 - The number of Customers that are Graduates is __1,953__
 - The number of Customer Complaint is __20.__
@@ -164,14 +165,14 @@ From the analysis, i made the Key Performance Indcator findings below:
 - <img src="images/Customer_By_Graduate_Ratio_image.jpg" width="250">
 
 - **Customers By Graduate Ratio**
-- Analyzing this data from the aspect of Customers educational level, in the doughnut pie that represents "Customers By Graduate Ratio", we can see that Graduates makes a greater percentage ratio and number of customers in this analysis with 1,953 customers and a percentage of 88.57% while the Non-Graduates Customers are 252 in number with a percentage share of 11.43%. From this chart, we can see that educational may have influence buying decisions of customers.
+- Analyzing this data from the aspect of Customers' educational level, in the doughnut pie that represents "Customers By Graduate Ratio", we can see that Graduates make a greater percentage ratio and number of customers in this analysis with 1,953 customers and a percentage of 88.57% while the Non-Graduates Customers are 252 in number with a percentage share of 11.43%. From this chart, we can deduce that education may have influenced the buying decisions of customers.
 <br />
 <br />
 
 - <img src="images/Customers_By_Marital_Status_image.jpg" width="250">
 
 - **Customers By Marital Status**
-- From the "Customers By Marital Status" doughnut chart, we could see that we have a graeater number of customers that are married with a customer count of 1,422 and a percentage ratio of 64.49% while the Singles has a customer count of 783 and a percentasge ratio of 35.51%. This indicates that we have a greater number of married customers in this analaysis and marital status must have played a role in the purchasing preferences, purchasing methods and the medium of purchases for these customers.
+- From the "Customers By Marital Status" doughnut chart, we can see that we have a greater number of customers who are married with a customer count of 1,422 and a percentage ratio of 64.49% while the Singles have a customer count of 783 and a percentage ratio of 35.51%. This indicates that we have a greater number of married customers in this analysis and marital status must have played a role in the purchasing preferences, purchasing methods, and the medium of purchases for these customers.
 <br />
 <br />
 
@@ -191,36 +192,20 @@ From the analysis, i made the Key Performance Indcator findings below:
     this age group. Additionally, there are 46 single customers in this age band.
   - __Twenties (20-29 years):__ The age band of twenties represents the smallest group of customers, with a total count of 31 individuals. Interestingly, among these customers, there 
     are 17 married individuals and 26 single individuals, indicating a higher proportion of singles compared to married individuals in this age group.
-  - This analysis provides valuable insights into the composition of the customer base. A good understanding of these demographic patterns can help the food app business tailor 
-    marketing strategies, product offerings, and customer engagement initiatives to better cater to the preferences and needs of different customer segments. Further analysis and 
-    segmentation based on demographic factors can provide deeper insights and opportunities for targeted marketing and personalized experiences to enhance customer satisfaction and 
-    loyalty.
 <br />
 <br />
 
 - <img src="images/Total_Monthly_Income_By_AgeBand_image.jpg" width="300">
 
 - **Total Monthly Income By Age Band**
-- The distribution of total monthly income across different age bands provides valuable insights into customers' purchasing power and preferences. Here's an analysis of how income levels may influence their buying behavior:
-  - __Forties (40-49 years):__ Customers in their forties, with the highest total monthly income of $33 million, likely have significant purchasing power. They may prioritize quality 
-    and convenience in their purchases, opting for higher-priced products and services. Preferences may include preference in luxury items within the food categories.
-  - __Fifties (50-59 years):__ With a total monthly income of $28 million, customers in their fifties also possess substantial purchasing power. They may prioritize value for money and 
-    reliability in their purchases, seeking food products that offer longevity. Preferences may include home improvements, health and wellness food products.
-  - __Sixties (60-69 years):__ Despite having a slightly lower total monthly income of $27 million, customers in their sixties still maintain considerable purchasing power. They may 
-    prioritize convenience and comfort in their purchases, opting for food products and services that enhance their lifestyle and well-being. Preferences may include healthcare products.
-  - __Thirties (30-39 years):__ With a total monthly income of $15 million, customers in their thirties exhibit moderate purchasing power. They may prioritize affordability and value in 
-    their food purchases, seeking products and services that offer a balance between quality and cost-effectiveness. Preferences may include food products that align with their 
-    lifestyle and aspirations.
-  - __Seventies+ (70+ years):__ Despite having a lower total monthly income of $8 million, customers aged seventy and above still possess purchasing power, albeit relatively lower 
-    compared to younger age groups. They may prioritize simplicity and reliability in their purchases, opting for food products and services that meet their basic needs and preferences. 
-    Preferences may include healthcare products, household food essentials, and investments in food prducts that helps them maintain their quality of life.
-  - __Twenties (20-29 years):__ Customers in their twenties, with the lowest total monthly income of $2 million, may have limited purchasing power compared to older age groups. They may 
-    prioritize affordability and novelty in their purchases, seeking products and services that align with their budget constraints and evolving preferences. Preferences may include 
-    trendy food products and experiences that cater to their social and recreational interests.
-  - Lastly, he distribution of total monthly income across different age bands influences customers' purchasing power and preferences, shaping their buying behavior and consumption 
-    patterns. Understanding these changes is crucial for the Food App Business to tailor their product offerings, pricing strategies, and marketing campaigns to effectively target and 
-    engage with diverse customer segments. By aligning with customers' income levels and preferences, businesses can optimize their market positioning and enhance customer satisfaction, 
-    ultimately driving sales and fostering long-term loyalty.
+  - Data displays of total monthly income per age group offer group information about customers’ buying capacity and tendencies. Here's an analysis of how income levels may influence their buying behavior:
+  - __Forties (40-49 years):__ Their $33 million worth of monthly income clearly carries their thrust toward quality and luxury in purchases, thus making the pricier food brands more attractive.
+  - __Fifties (50-59 years):__ With a monthly earnings of $28 million; they look for value and durability in the food products and pick those that support health and home improvement.
+  - __Sixties (60-69 years):__ With $27 million per month earnings, this group is convenience and quality-of-life-oriented, they are geared toward health-related foodstuffs and services.
+  - __Thirties (30-39 years):__ This demographic has a monthly income of $15 million looking for cheaper prices with good quality food. They usually enjoy culturally diverse foods.
+  - __Seventies+ (70+ years):__ This is an $8 million per month group looking to acquire easy-to-use and reliable products in their drive toward essential foodstuffs and healthcare products.
+  - __Twenties (20-29 years):__ With a revenue generation of $2 million monthly. This age group demands affordability and newness; hence, they mostly consume trendy food products that are affordable to them.
+The total monthly income distribution across age groups drives purchasing power, preference, and consumption patterns.
 <br />
 <br />
 
@@ -228,34 +213,13 @@ From the analysis, i made the Key Performance Indcator findings below:
 
 - **Purchase Method By Age Band**
 - This analysis sheds light on how age influences the choice of purchase method. Here's an analysis of the findings:
-  - __Forties (40-49 years):__ Customers in their forties demonstrate a preference for store purchases, with 3,740 transactions recorded. They also show significant engagement in web 
-    purchases, with 2,661 transactions, indicating comfort with online shopping. Catalog purchases, totaling 1,510 transactions, reflect a supplementary channel for their shopping 
-    needs. The forties age group exhibits a balanced approach to purchasing, utilizing both traditional and digital channels based on convenience and preference.
-  - __Fifties (50-59 years):__ Similar to customers in their forties, those in their fifties display a preference for store purchases, with 3,171 transactions. Web purchases, totaling 
-    2,324 transactions, also show a significant level of engagement, indicating a growing comfort with online shopping among older demographics. Catalog purchases, with 1,414 
-    transactions, serve as an additional avenue for their shopping requirements. The fifties age group showcases a similar purchasing pattern to the forties, leveraging both offline 
-    and online channels based on convenience and familiarity.
-  - __Sixties (60-69 years):__ Customers in their sixties exhibit a preference for store purchases, with 3,011 transactions, indicating a continued reliance on traditional shopping 
-    methods. Web purchases, totaling 2,110 transactions, show a notable level of adoption, reflecting increasing digital literacy and comfort with online transactions among older age 
-    groups. Catalog purchases, with 1,518 transactions, maintain a presence as an alternative shopping channel for this demographic. The sixties age group demonstrates a 
-    gradual transition towards online shopping while still retaining a preference for traditional retail experiences.
-  - __Thirties (30-39 years):__ Customers in their thirties display a preference for store purchases, with 1,743 transactions, indicating a reliance on brick-and-mortar retail outlets. 
-    Web purchases, totaling 1,131 transactions, demonstrate moderate engagement in online shopping, reflecting a growing trend towards digital commerce among younger demographics. 
-    Catalog purchases, with 711 transactions, serve as a supplementary channel for their shopping needs but are less prevalent compared to older age groups. The thirties age group 
-    exhibits a balanced approach to purchasing, with a slight inclination towards traditional retail but a growing presence in online transactions.
-  - __Seventies+ (70+ years):__ Customers aged seventy and above primarily rely on store purchases, with 909 transactions, reflecting a preference for traditional shopping experiences. 
-    Web purchases, totaling 659 transactions, show a lower level of engagement compared to younger age groups but indicate a gradual adoption of online shopping among older 
-    demographics. Catalog purchases, with 496 transactions, serve as a supplementary channel for this age group, providing additional convenience for their shopping needs. The seventy 
-    and above age group demonstrates a cautious approach to online transactions while maintaining a preference for familia retail environments.
-  - __Twenties (20-29 years):__ Customers in their twenties predominantly engage in store purchases, with 267 transactions, reflecting a preference for immediate gratification and in- 
-    store experiences. Web purchases, totaling 157 transactions, indicate moderate engagement in online shopping, with a growing trend towards digital commerce among younger 
-    demographics. Catalog purchases, with 184 transactions, serve as a secondary channel for this age group, catering to specific shopping preferences or niche food products. The 
-    twenties age group demonstrates a balanced approach to purchasing, with a preference for traditional retail supplemented by 
-    increasing engagement in online transactions.
-  - Age plays a significant role in influencing the choice of purchase method, with different age groups demonstrating varying preferences and levels of engagement across store, web, 
-    and catalog purchases. A good understanding of these preferences is important for the Food App Business to tailor their omnichannel strategies, offering a seamless shopping 
-    experience that caters to the diverse needs and preferences of different demographic segments. By adapting their marketing efforts and enhancing their online and offline retail 
-    offerings, businesses can effectively engage with customers across all age groups, driving sales and fostering long-term loyalty in an increasingly competitive retail landscape.
+   - __Forties (40-49 years):__ Store purchases dominate at 3,740 followed by web interactions at 2,661 stating their transitional use of both online and physical sites.
+   - __Fifties (50-59 years):__ Same as the forties, store purchases are prioritized with 3,171 transactions, followed by web purchases at 2,324 transactions; then followed by catalog purchases with 1,510 transactions.
+   - __Sixties (60-69 years):__ Most of the transactions from the sixties are through store purchases at 3,011 transactions, followed by online purchases with 2,110 transactions, and transactions from catalogs at 1,518 transactions.
+   - __Thirties (30-39 years):__ Store buying preference is high, this has 1,743 transactions, while with an increased web presence; it has 1,131 transactions, Catalog buying option is the least with only 711 transactions.
+   - __Seventies+ (70+ years):__ With 909 number of transactions the store based purchasing group was the major active participant; web channel depicted 659 transactions and the catalog option represents an additional channel with 496 number of transactions.
+   - __Twenties (20-29 years):__ Store buying is the most frequently used in this group with 267 transactions, infrequent online buying of 157 transactions, and catalog buying of 184 transactions. 
+   - One major aspect that propels differences in the store’s spending preferences includes the age differences which the Food App Business can help understand for appropriate shopping experiences and effective customer engagement across the age divide.
 <br />
 <br />
 
@@ -263,40 +227,11 @@ From the analysis, i made the Key Performance Indcator findings below:
 
 - **No Of Customers Acquired By Campaigns**
 - This analysis provides valuable insights into the effectiveness of different campaign strategies. Here's an analysis of the factors that may have influenced the varying levels of success across the campaigns:
-  - __4th Campaign (164 customers converted):__ The 4th campaign emerged as the most successful, converting 164 customers.          
-    - __Potential Influencing Factors:__ Targeted Messaging: The campaign may have effectively communicated value propositions and incentives that resonated with the target audience, 
-      prompting a higher conversion rate.
-    - __Timing and Relevance:__ The campaign might have been strategically timed to coincide with consumer needs or market trends, increasing its relevance and impact.
-    - __Personalization:__ Tailoring the campaign message and offers to individual customer preferences and behaviors may have enhanced engagement and conversion rates.
-  - __3rd Campaign (163 customers converted):__ Following closely, the 3rd campaign converted 163 customers, indicating a high level of success.
-    - __Potential Influencing Factors:__
-      - __Compelling Offers:__ The campaign may have featured compelling discounts, promotions, or incentives that incentivized customers to take action and make a purchase.
-      - __Multiple channel Approach:__ Leveraging multiple marketing channels and touchpoints may have extended the campaign's reach and engagement, resulting in higher conversion rates.
-      - __Customer Segmentation:__ Targeting specific customer segments with tailored messaging and offers may have contributed to higher 
-        response rates and conversions.
-  - __5th Campaign (161 customers converted):__ The 5th campaign secured the third position with 161 customers converted.
-    - __Potential Influencing Factors:__
-      - __Creative Messaging:__ Innovative and attention-grabbing messaging or creative content may have captured the audience's interest and motivated them to respond positively to the 
-        campaign.
-      - __Call to Action:__ Clear and compelling calls to action (CTAs) may have encouraged customers to take the desired action, resulting in a higher conversion rate.
-      - __Customer Engagement:__ Interactive elements or gamification strategies incorporated into the campaign may have enhanced customer engagement and participation, leading to 
-        increased conversions.
-  - __1st Campaign (142 customers converted):__ The 1st campaign secured the fourth position, converting 142 customers.
-    - __Potential Influencing Factors:__
-      - __Brand Awareness:__ As the initial campaign in the series, the 1st campaign may have focused on building brand awareness and introducing the target audience to the product or 
-        service offering.
-      - __Testing and Optimization:__ The campaign may have served as a testing ground for different messaging, offers, and channels, with learnings used to refine subsequent campaigns 
-        for improved performance.
-      - __Market Conditions:__ External factors such as seasonality, economic conditions, or competitive landscape may have influenced the campaign's effectiveness and conversion rates.
-  - __2nd Campaign (30 customers converted):__ The 2nd campaign experienced the lowest level of success, converting only 30 customers.
-    - __Potential Influencing Factors:__
-      - __Messaging Alignment:__ The campaign messaging may have failed to effectively communicate value or relevance to the target audience, resulting in limited engagement and 
-        conversion.
-      - __Targeting Issues:__ Inaccurate audience targeting or insufficient segmentation may have led to the campaign reaching the wrong audience or failing to resonate with the 
-        intended recipients.
-      - __Execution Challenges:__ Issues related to campaign execution, such as technical errors, delivery delays, or poor creative quality, may have hindered its effectiveness and 
-        conversion rates.
-- The varying levels of success observed across the campaigns may be attributed to a combination of factors including messaging effectiveness, timing, relevance, personalization, creative execution, and audience targeting. Analyzing the performance of each campaign provides valuable insights for optimizing future marketing initiatives, identifying best practices, and addressing areas for improvement to drive higher conversion rates and overall campaign success.
+ - __4th Campaign (164 customers converted):__ Most effective, thanks to focused messages well-timed delivery, and custom deals. This approach brought back 164 customers.
+ - __3rd Campaign (163 customers converted):__ Was good because of some attractive offers, use of multiple channels, and smart customer grouping.
+ - __5th Campaign (161 customers converted):__ 161 customers came back. This effort was ranked third in success. A strategy filled with clever messages, clear next steps, and interesting campaign parts might explain this.
+ - __1st Campaign (142 customers converted):__ Returned 142 customers. This campaign was ranked in the fourth place. Attributes like building brand recognition, trying out new ideas, and market shifts may have affected how well this campaign did.
+ - __2nd Campaign (30 customers converted):__ Was the least effective. This could probably be because the campaign messages didn't fit well, or the wrong people saw them, or something went wrong when running it. 
 <br />
 <br />
 
