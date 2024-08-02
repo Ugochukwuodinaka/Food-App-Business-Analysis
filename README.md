@@ -150,7 +150,7 @@ Data modelling wasn't required because we have just a table for this analysis.
 <br />
 
 ### Project Analysis:
-From the analysis, i made the Key Performance Indcator findings below:
+From the analysis, i made the Key Performance findings below:
 - The Total Monthly Income from the Food App Business data is __$113.8M.__
 - The Average Monthly Income from the Food App Business is __$51.622k.__
 - The Total Amount Spent on all the food categories is __$1.34M.__
