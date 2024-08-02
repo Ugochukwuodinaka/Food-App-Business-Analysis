@@ -105,12 +105,14 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
         6. Button
 <br />
 
-### Data Cleaning, Transformation and Loading using the MS Sql Server:
-1. Added a new column __"AgeBand"__ which extracts its information from the __"Age"__ column and groups them into Twenties, Thirties, Forties, Fifties, Sixties, and Seventies+ using the 'If function'.
-2. Added a new column __"Graduate_Status"__ which picks its information from the __"Graduate"__ column and transforms them by grouping them into __'Graduate'__ and __'Non-Graduate'__. using the 'If function'.
-3. Added a new column __"Marital_Status"__ from the __"Married"__ column groups the data in the __"Married"__ column into __'Married'__ and __'Single'__ using the 'If function'.
-4. Changed all the columns to the right column types.
-5. Re-ordered all columns accordingly (Power Query).
+### Data Cleaning and Transformation steps in MS Sql Server:
+1. Check to confirm all column datatypes.
+2. Add a new column __"AgeBand"__ which extracts its information from the __"Age"__ column and group them into: _Twenties, Thirties, Forties, Fifties, Sixties, and Seventies+_ using the _"Update"_ and _"Set query"_.
+3. Add a new column __"GraduateStatus"__ which picks its information from the __"Graduate"__ column and transforms them by grouping them into _'Graduate'_ and _'Non-Graduate'_. using the _"Update"_ and _"Set query"_.
+4. Add a new column __"Marital_Status"__ from the __"Married"__ and __"Single"__ columns and group them into _'Married'_ and _'Single'_ in the new column using the _"Update"_ and _"Set query"_.
+5. Re-order all columns appropriately.
+6. Drop column __"CustomerComplain"__ as it has no value in the column and doesn't add any value to the database table.
+7. Make sure that all the columns are of the right column types.
 <br />
 
 **Raw Data**
