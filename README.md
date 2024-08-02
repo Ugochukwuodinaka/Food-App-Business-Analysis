@@ -9,7 +9,7 @@
 - [Visualization in Power BI:](#visualization-in-power-bi)
 - [Project Analysis](#project-analysis)
 - [Visuals in Power BI Report](#visuals-in-power-bi-report)
-- [Recommendations Towards The Growth and ProfItability of The Food App Business](#recommendations-towards-the-growth-and-profItability-of-the-food-app-business)
+- [Recommendations Towards The Growth and Profitability of The Food App Business](#recommendations-towards-the-growth-and-profitability-of-the-food-app-business)
 <br />
 
 ## Project Overview
@@ -278,7 +278,7 @@ You can view and interact with this report on Food App Business analysis [here](
 <br />
 <br />
 
-## Recommendations Towards The Growth and ProfItability of The Food App Business
+## Recommendations Towards The Growth and Profitability of The Food App Business
 Based on the analysis conducted on the Food App Business and the insights gained from various aspects such as customer demographics, purchase behavior, campaign effectiveness, and spending patterns, here are several recommendations aimed at fostering growth and profitability:
 - __Personalization:__ There is a need to share insight-driven recommendations, good offers, and attractive marketing campaigns which will be based on an analysis of customer preferences.
 - __Enhance the User Experience:__ There should a steady update and upgrade of the application with a view of making it more user-friendly. making the ordering process smoother, and an improvement of user experience across devices.
