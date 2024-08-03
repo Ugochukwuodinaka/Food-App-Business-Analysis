@@ -127,7 +127,7 @@ You can preview the dataset [here](FoodAppBusiness.csv).
 <br />
 
 **Final MS Sql Server screenshot**
-- Below is a screenshot of a part of the cleaned data in MS Sql Server query editor. 
+- Below is a screenshot of a part of the cleaned data in MS Sql Server: 
 
 Sql Query Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
