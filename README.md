@@ -90,9 +90,8 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 ### Tools Used
 1. MS Sql Server
     - Was used to:
-        1. Extract,
-        2. Clean,
-        3. and Transform the datasets for this analysis.
+        1. Clean
+        3. Transform the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
