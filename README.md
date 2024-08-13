@@ -130,7 +130,7 @@ Sql Query Screenshot                                                            
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)   
 
-You can preview the MS Sql Server query file [here](FoodAppBusiness_Query.sql)
+You can preview the MS Sql Server query file [here](FoodAppBusiness_Analysis_Project.sql)
 <br />
 <br />
 
