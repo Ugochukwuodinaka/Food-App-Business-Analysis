@@ -108,7 +108,7 @@ here's an overview of the "FoodAppBusiness.csv" dataset along with explanations 
 2. Added a new column __"AgeBand"__ which extracts its information from the __"Age"__ column and groups them into: _Twenties, Thirties, Forties, Fifties, Sixties_, and _Seventies+_ using the _"Update"_ and _"Set query"_.
 3. Added a new column __"Graduate_Status"__ which picks its information from the __"Graduate"__ column and transforms them by grouping them into __'Graduate'__ and '__Non-Graduate'__. using the _"Update"_ and _"Set query"_.
 4. Added a new column __"Marital_Status"__ from the __"Married"__ column groups the data in the __"Married"__ column into __'Married'__ and __'Single'__ using the _"Update"_ and _"Set query"_.
-5. Droped column __"CustomerComplain"__ as it has no value in the column and doesn't add any value to the database table.
+5. Dropped column __"CustomerComplain"__ as it has no value in the column and doesn't add any value to the database table.
 6. Re-checked the dataset.
 <br />
 
