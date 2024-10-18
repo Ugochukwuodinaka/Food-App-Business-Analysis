@@ -140,10 +140,10 @@ Data modelling wasn't required because we have just a table for this analysis.
 <br />
 
 ## Visualization in Power BI:
-#### Report 1
+#### Customer Stats
 ![](images/Food_App_Business_Analysis_Dashboard_1.jpg)
 
-#### Report 2
+#### Campaign & Spending
 ![](images/Food_App_Business_Analysis_Dashboard_2.jpg)
 <br />
 <br />
@@ -271,8 +271,8 @@ The total monthly income distribution across age groups drives purchasing power,
 <br />
 <br />
 
-## Visuals in Power BI Report:
-You can view and interact with this report on Food App Business analysis [here](https://app.powerbi.com/view?r=eyJrIjoiMWMyNjliODktMTIwNi00ZGYzLThhYmMtMDQzNDE3Nzk4OWJkIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+## Visuals in Power BI:
+You can view and interact with this dashboard on Food App Business analysis [here](https://app.powerbi.com/view?r=eyJrIjoiMWMyNjliODktMTIwNi00ZGYzLThhYmMtMDQzNDE3Nzk4OWJkIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 <br />
 <br />
 <br />
