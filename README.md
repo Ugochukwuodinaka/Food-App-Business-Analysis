@@ -222,7 +222,7 @@ The total monthly income distribution across age groups drives purchasing power,
 <br />
 <br />
 
-- <img src="images/No_Of_Customers_Acquired_By_Campaigns_image.jpg" width="600">
+- <img src="images/No_Of_Customers_Acquired_By_Campaigns_image.jpg" width="900">
 
 - **No Of Customers Acquired By Campaigns**
 - This analysis provides valuable insights into the effectiveness of different campaign strategies. Here's an analysis of the factors that may have influenced the varying levels of success across the campaigns:
